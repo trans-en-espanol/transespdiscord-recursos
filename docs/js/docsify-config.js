@@ -22,7 +22,7 @@ window.$docsify = {
         EditOnGithubPlugin.create(
             repository + "/tree/main/docs/",
             null,
-            "<i class=\"fa-solid fa-file-pen\"></i> Editar esta página"
+            "Editar esta página"
         )
     ]
 }
