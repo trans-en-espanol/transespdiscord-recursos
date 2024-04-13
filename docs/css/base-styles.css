@@ -20,6 +20,12 @@
     text-decoration: var(--link-text-decoration--hover) !important;
 }
 
+@media (min-width:320px) and (max-width:961px) {
+    .page_toc {
+        display: none;
+    }
+}
+
 @media (prefers-color-scheme: dark) {
     :root {
         --theme-color: white;
