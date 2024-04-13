@@ -19,7 +19,7 @@
 }
 
 .page_toc ul a:hover span {
-    color: --text-color-base !important;
+    color: var(--text-color-base) !important;
     border-bottom: none !important;
     text-decoration: var(--link-text-decoration--hover) !important;
 }
