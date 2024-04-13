@@ -1,3 +1,4 @@
+# Información común
 ## Terapia de Reemplazo Hormonal (TRH)
 ### ¿Seguiré siendo fértil?
 
