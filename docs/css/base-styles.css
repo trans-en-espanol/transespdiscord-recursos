@@ -15,7 +15,6 @@
 }
 
 .markdown-section>div:first-child>p {
-    float: left !important;
     margin: 0;
     font-size: 12px;
     text-decoration: none;
