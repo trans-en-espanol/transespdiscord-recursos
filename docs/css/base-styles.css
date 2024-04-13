@@ -1,0 +1,37 @@
+:root {
+    --base-font-size: 18px;
+    --base-line-height: 1.7;
+    --link-text-decoration--hover: underline dotted;
+    --text-color-base: var(--base-color);
+}
+
+.sidebar>h1 img {
+    border-radius: 25%;
+    max-width: 35%;
+}
+
+.page_toc ul {
+    margin-top: 30px;
+}
+
+.page_toc ul a:hover span {
+    color: --text-color-base !important;
+    border-bottom: none !important;
+    text-decoration: var(--link-text-decoration--hover) !important;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --theme-color: white;
+        --base-background-color: #28303d;
+        --base-color: white;
+    }
+}
+
+@media (prefers-color-scheme: light) {
+    :root {
+        --theme-color: #28303d;
+        --base-background-color: rgb(243, 243, 243);
+        --base-color: #28303d;
+    }
+}
