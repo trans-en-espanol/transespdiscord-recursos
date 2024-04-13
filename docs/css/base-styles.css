@@ -10,10 +10,14 @@
     max-width: 35%;
 }
 
+.markdown-section>div:first-child {
+    margin: 0 0 -55px 0;
+}
+
 .markdown-section>div:first-child>p {
     float: left !important;
-    margin: 0 0 -20px 0;
-    font-size: 10px;
+    margin: 0;
+    font-size: 12px;
     text-decoration: none;
 }
 
