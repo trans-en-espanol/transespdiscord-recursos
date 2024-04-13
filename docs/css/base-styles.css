@@ -10,6 +10,16 @@
     max-width: 35%;
 }
 
+.markdown-section>div:first-child>p {
+    float: left !important;
+    margin: 0;
+    text-decoration: none;
+}
+
+.markdown-section>div:first-child>p>a:hover {
+    text-decoration: var(--link-text-decoration--hover);
+}
+
 .page_toc p.title {
     margin-top: 30px;
 }
