@@ -10,17 +10,21 @@
     max-width: 35%;
 }
 
-.markdown-section>div:first-child {
+article#main>p {
+    text-align: justify;
+}
+
+article#main>div:first-child {
     margin: 0 0 -55px 0;
 }
 
-.markdown-section>div:first-child>p {
+article#main>div:first-child>p {
     margin: 0;
     font-size: 12px;
     text-decoration: none;
 }
 
-.markdown-section>div:first-child>p>a:hover {
+article#main>div:first-child>p>a:hover {
     text-decoration: var(--link-text-decoration--hover);
 }
 
