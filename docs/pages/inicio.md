@@ -2,7 +2,7 @@
 
 ¡Bienvenide al repositorio de recursos de Trans en Español! Aquí puedes encontrar información relativa a distintos procesos relacionados con la comunidad trans.
 
-Si tienes alguna duda o deseas proponer recursos, puedes hacerlo en el servidor de Discord.
+Si tienes alguna duda o deseas proponer recursos, puedes hacerlo [en el servidor de Discord](https://discord.gg/qUDesVm).
 
 Te recomendamos leer primero el [glosario de términos](glosario.md).
 
