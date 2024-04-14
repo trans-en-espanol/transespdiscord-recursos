@@ -10,6 +10,7 @@
 
 - **Países**
     - [Argentina](pages/paises/argentina.md)
+        - [Procedimientos](pages/paises/argentina/procedimientos.md)
     - [Chile](pages/paises/chile.md)
     - [Colombia](pages/paises/colombia.md)
     - [Costa Rica](pages/paises/costa-rica.md)
