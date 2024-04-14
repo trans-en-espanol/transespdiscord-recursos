@@ -1,4 +1,4 @@
-var repository = "https://github.com/trans-en-espanol/transespdiscord-recursos";
+const repository = "https://github.com/trans-en-espanol/transespdiscord-recursos";
 
 window.$docsify = {
     name: "Trans en Español - Recursos",
