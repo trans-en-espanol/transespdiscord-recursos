@@ -10,11 +10,6 @@ window.$docsify = {
     loadSidebar: "pages/_sidebar.md",
     //autoHeader: true,
     subMaxLevel: 3,
-    toc: {
-        scope: '.markdown-section',
-        headings: 'h1, h2, h3, h4, h5, h6',
-        title: 'Índice',
-    },
     search: {
         placeholder: "Escribe aquí para buscar",
         noData: "Sin resultados."
