@@ -5,11 +5,16 @@
     --text-color-base: var(--base-color);
     --sidebar-width: 20rem;
     --sidebar-nav-indent: 0.5em;
+    --sidebar-padding: 0 20px;
 }
 
 .sidebar>h1 img {
     border-radius: 25%;
     max-width: 35%;
+}
+
+div.sidebar-nav ul p {
+    line-height: 0.9;
 }
 
 article#main>p {
