@@ -6,6 +6,7 @@
     --sidebar-width: 20rem;
     --sidebar-nav-indent: 0.5em;
     --sidebar-padding: 0 20px;
+    --sidebar-nav-margin: 0.5rem 0 0;
 }
 
 .sidebar>h1 img {
