@@ -28,6 +28,10 @@ article#main>div:first-child>p>a:hover {
     text-decoration: var(--link-text-decoration--hover);
 }
 
+.page_toc {
+    margin-right: 15px;
+}
+
 .page_toc p.title {
     margin-top: 30px;
 }
