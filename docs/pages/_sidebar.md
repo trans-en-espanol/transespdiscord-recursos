@@ -1,5 +1,6 @@
 - **General**
     - [Inicio](pages/inicio.md)
+    - [¿Cómo contribuir?](pages/contribuir.md)
     - [Glosario](pages/glosario.md)
 
 - **Transición**
