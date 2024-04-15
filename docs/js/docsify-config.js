@@ -5,6 +5,7 @@ window.$docsify = {
     repo: repository,
     logo: "assets/img/logo.webp",
     homepage: "pages/inicio.md",
+    auto2top: true,
     coverpage: false,
     loadSidebar: "pages/_sidebar.md",
     //autoHeader: true,
