@@ -3,7 +3,7 @@
     --base-line-height: 1.7;
     --link-text-decoration--hover: underline dotted;
     --text-color-base: var(--base-color);
-    --sidebar-width: 19rem;
+    --sidebar-width: 20rem;
 }
 
 .sidebar>h1 img {
