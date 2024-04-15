@@ -4,6 +4,7 @@
     --link-text-decoration--hover: underline dotted;
     --text-color-base: var(--base-color);
     --sidebar-width: 20rem;
+    --sidebar-nav-indent: 0.5em;
 }
 
 .sidebar>h1 img {
