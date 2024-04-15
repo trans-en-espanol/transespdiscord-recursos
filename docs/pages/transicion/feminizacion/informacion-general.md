@@ -6,7 +6,7 @@
 Los cambios hormonales son muy diferentes dependiendo de la persona, pero puedes esperar algo similar a esto, que es parecido a los cambios durante la pubertad:
 
 Se desarrollan los pezones y el tórax/pechos, se atrofian los testículos, disminuye la función eréctil y la masa muscular, se redistribuye la grasa corporal, se suaviza y adelgaza la cara y la piel, la calvicie se detiene.
-También puede haber fisiológicos, como el aumento o reducción de la libido, disminución de la frecuencia cardíaca, reducción total o parcial de las erecciones y/o crear esperma o eyacular.
+También puede haber fisiológicos, como el aumento o reducción de la libido, disminución de la frecuencia cardíaca, reducción total o parcial de las erecciones y/o de crear esperma o eyacular.
 
 ### ¿Qué cambios puedo esperar en la voz?
 La voz, una vez cambia durante la pubertad, no es afectada por las hormonas (debido a una cuestión física que las hormonas no pueden deshacer), por tanto, será necesario practicar para aprender a modularla. Con la suficiente práctica, podrás cambiar la voz que tienes de manera natural.
