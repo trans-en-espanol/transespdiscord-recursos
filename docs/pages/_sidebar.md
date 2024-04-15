@@ -2,6 +2,7 @@
     - [Inicio](pages/inicio.md)
     - [¿Cómo contribuir?](pages/contribuir.md)
     - [Glosario](pages/glosario.md)
+    - [Portal de TEE](https://www.transespdiscord.net/)
 
 - **Transición**
     - [Información común](pages/transicion/informacion-comun.md)
@@ -44,5 +45,3 @@
         - [Procedimientos](pages/paises/uruguay/procedimientos.md)
     - [Venezuela](pages/paises/venezuela/venezuela.md)
         - [Contactos](pages/paises/venezuela/contactos.md)
-
-- [>> Ir al portal de TEE](https://www.transespdiscord.net/)
