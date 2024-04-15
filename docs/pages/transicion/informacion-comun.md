@@ -18,6 +18,6 @@ Las cirugías de este tipo son irreversibles.
 Los resultados de una faloplastia y una vaginoplastia son realmente extraordinarios, sin embargo, tus genitales nunca serán totalmente iguales a los de nacimiento. Además, en el caso de la vaginoplastia, tendrás que usar lubricante. Por lo tanto, es recomendable hablar abiertamente y sin tabúes con tus parejas sexuales.
 
 ## Enlaces de interés
-* La Biblia de la Disforia de Género (contiene muchas definiciones de términos).
-* Recursos útiles en general.
-* Vídeo de la Universidad de Iowa que explica cómo inyectarse testosterona o estrógeno.
+* [La Biblia de la Disforia de Género](https://genderdysphoria.fyi/es/) (contiene muchas definiciones de términos).
+* [Recursos útiles en general](https://www.pointofpride.org/for-professionals).
+* [Vídeo de la Universidad de Iowa que explica cómo inyectarse testosterona o estrógeno](https://youtu.be/e0wDPZ0D9Wk).
