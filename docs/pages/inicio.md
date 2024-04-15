@@ -9,9 +9,9 @@ Te recomendamos leer primero el [glosario de términos](glosario.md).
 ### Información sobre la transición
 
 * [Común a todas las transiciones](pages/transicion/informacion-comun.md)
-* [Feminización](pages/transicion/feminizacion.md)
-* [Masculinización](pages/transicion/masculinizacion.md)
-* [Androginización](pages/transicion/androginizacion.md)
+* [Feminización](pages/transicion/feminizacion/feminizacion.md)
+* [Masculinización](pages/transicion/masculinizacion/masculinizacion.md)
+* [Androginización](pages/transicion/androginizacion/androginizacion.md)
 
 
 ### Información por países
