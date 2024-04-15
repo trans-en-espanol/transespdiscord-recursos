@@ -112,7 +112,7 @@ Es un término despectivo y fetichizante dirigido a los hombres trans y las pers
 Término transmedicalista despectivo que busca ofender a las personas trans que creen en la autodeterminación de género o que creen que no hace falta tener disforia para ser transgénero. Es especialmente ofensivo porque busca cuestionar la validez de la identidad y los sentimientos de otra persona trans.
 
 ### Transtrender
-Ver Tucute.
+Ver [Tucute](#tucute).
 
 ### Tranny
 Insulto que originalmente surgió para ofender a las personas travesti, y que hoy en día se usa principalmente por tránsfobos para ofender a personas transgénero.
