@@ -9,6 +9,8 @@
         - [Información general](pages/transicion/feminizacion/informacion-general.md)
         - [Voz](pages/transicion/feminizacion/feminizacion-voz.md)
     - [Masculinización](pages/transicion/masculinizacion/masculinizacion.md)
+        - [Información general](pages/transicion/masculinizacion/informacion-general.md)
+        - [Voz](pages/transicion/masculinizacion/masculinizacion-voz.md)
     - [Androginización](pages/transicion/androginizacion/androginizacion.md)
 
 - **Países**
