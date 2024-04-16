@@ -9,7 +9,7 @@ window.$docsify = {
     coverpage: false,
     loadSidebar: "pages/_sidebar.md",
     //autoHeader: true,
-    subMaxLevel: 1,
+    subMaxLevel: 2,
     search: {
         placeholder: "Escribe aquí para buscar",
         noData: "Sin resultados."
