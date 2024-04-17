@@ -1,6 +1,6 @@
 # Procedimientos (Chile)
 
-Procedimientos en Chile, recuerda que puedes [contribuir](pages/contribuir.md) a esta página si dispones de más información.
+Procedimientos en Chile, recuerda que puedes [contribuir](contribuir.md) a esta página si dispones de más información.
 
 ## Información general
 

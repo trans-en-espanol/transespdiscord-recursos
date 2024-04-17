@@ -4,10 +4,9 @@ window.$docsify = {
     name: "Trans en Español - Recursos",
     repo: repository,
     logo: "assets/img/logo.webp",
-    homepage: "pages/inicio.md",
     auto2top: true,
     coverpage: false,
-    loadSidebar: "pages/_sidebar.md",
+    loadSidebar: true,
     //autoHeader: true,
     subMaxLevel: 2,
     search: {
