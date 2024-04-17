@@ -4,7 +4,7 @@ Recursos para Argentina, recuerda que puedes [contribuir](contribuir.md) a esta 
 
 ## Recursero
 
-### Recurso principal: https://recursero.info
+**Recurso principal:** https://recursero.info
 
 Escribís la provincia en la que estás y te muestra todo tipo de recursos que podés encontrar ahí, desde centros de salud que ofrecen el tratamiento de reemplazo hormonal, ayuda para la salud mental, atención para niñes y adolescentes, etc. todo especializado para personas de la comunidad trans.
 
