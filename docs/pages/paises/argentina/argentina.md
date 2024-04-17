@@ -1,5 +1,7 @@
 # Argentina
 
+Recursos para Argentina, recuerda que puedes [contribuir](pages/contribuir.md) a esta página si dispones de más información.
+
 ## Recursero
 
 ### Recurso principal: https://recursero.info
