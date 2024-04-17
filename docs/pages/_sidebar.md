@@ -15,8 +15,6 @@
 
 - **Países**
     - [Argentina](pages/paises/argentina/argentina.md)
-        - [Procedimientos](pages/paises/argentina/procedimientos.md)
-        - [Contactos](pages/paises/argentina/contactos.md)
     - [Chile](pages/paises/chile/chile.md)
         - [Procedimientos](pages/paises/chile/procedimientos.md)
         - [Contactos](pages/paises/chile/contactos.md)
