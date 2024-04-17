@@ -29,8 +29,9 @@ Escribís la provincia en la que estás y te muestra todo tipo de recursos que p
 * [Derechos del Paciente en su Relación con los Profesionales e Instituciones de la Salud](http://servicios.infoleg.gob.ar/infolegInternet/anexos/160000-164999/160432/texact.htm)
 * [Ley 25.326: Ley de protección de datos personales (capítulo 3, artículo 16)](https://www.argentina.gob.ar/normativa/nacional/ley-25326-2000-64790) - Rectificaciones/supresión de datos
 
-### Para denuncias, acudir al [INADI](https://tramitesadistancia.gob.ar/tramitesadistancia/detalle-tipo?id=5552)
+### Para denuncias, acudir al INADI
 
+* [INADI](https://tramitesadistancia.gob.ar/tramitesadistancia/detalle-tipo?id=5552)
 * [Formulario de denuncia](https://www.argentina.gob.ar/sites/default/files/2018/08/formulario-denuncias-inadi.pdf)
 * [Instructivo de denuncia](https://www.argentina.gob.ar/sites/default/files/instructivo-formulario-denuncia-inadi.pdf)
 
