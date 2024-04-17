@@ -1,6 +1,6 @@
 # Información general sobre masculinización
 
-## ¿En qué consiste la Terapia de Reemplazo Hormonal (TRH)?
+## Terapia de Reemplazo Hormonal (TRH)
 
 Consiste en tomar testosterona con el objetivo de masculinizar el cuerpo. Se puede comenzar a partir de los 13 años, aunque puede ser difícil de conseguir dependiendo de la legalización en cada país. Algunos acuden a dosis más bajas o microdosing, esto produce que los cambios tarden más en aparecer, pero lo hacen con la misma intensidad. Se suele recomendar para casos en los que se prefiera tener más tiempo para adaptarse a dichos cambios.
 
