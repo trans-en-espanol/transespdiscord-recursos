@@ -7,6 +7,7 @@ window.$docsify = {
     auto2top: true,
     coverpage: false,
     loadSidebar: true,
+    externalLinkRel: "noopener nofollow external",
     //autoHeader: true,
     subMaxLevel: 2,
     search: {
