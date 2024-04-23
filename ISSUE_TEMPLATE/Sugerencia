@@ -1,0 +1,14 @@
+name: Enviar Sugerencia
+description: Envía una sugerencia para mejorar la wiki
+title: "[Sugerencia]: "
+labels: ["Sugerencia"]
+body:
+  - type: textarea
+    id: sugerencia
+    attributes:
+      label: Sugerencia
+      description: Aquí puedes describir tu sugerencia para mejorar la wiki. Cuanto mas detallado, mejor.
+      placeholder:
+      value:
+    validations:
+      required: true
