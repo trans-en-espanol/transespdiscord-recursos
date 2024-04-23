@@ -10,6 +10,7 @@ window.$docsify = {
     externalLinkRel: "noopener nofollow external",
     //autoHeader: true,
     subMaxLevel: 2,
+    notFoundPage: true,
     search: {
         placeholder: "Escribe aquí para buscar",
         noData: "Sin resultados."
