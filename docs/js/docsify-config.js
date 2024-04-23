@@ -13,12 +13,5 @@ window.$docsify = {
     search: {
         placeholder: "Escribe aquí para buscar",
         noData: "Sin resultados."
-    },
-    plugins: [
-        EditOnGithubPlugin.create(
-            repository + "/tree/main/docs/",
-            null,
-            "Editar esta página"
-        )
-    ]
+    }
 }
