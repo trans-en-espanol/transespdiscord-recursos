@@ -21,6 +21,6 @@ Para personas LGBT+ existe el [Centro de Referencia Amigable (CRAm)](https://cra
 
 Importante tener esto en cuenta si se quiere acceder a la prestación de psicoterapia:
 
-"El único criterio de exclusión para iniciar una psicoterapia en nuestro servicio es tener un diagnóstico de trastorno mental y no estar bajo supervisión médica ni con adherencia al tratamiento psicofarmacológico indicado por los especialistas en Psiquiatría. Además se remarca que el servicio no está equipado para trabajar en situaciones de emergencia.".
+*"El único criterio de exclusión para iniciar una psicoterapia en nuestro servicio es tener un diagnóstico de trastorno mental y no estar bajo supervisión médica ni con adherencia al tratamiento psicofarmacológico indicado por los especialistas en Psiquiatría. Además se remarca que el servicio no está equipado para trabajar en situaciones de emergencia."*
 
 Existen experiencias positivas entre la gente del servidor de Discord de Trans en Español que han utilizado el servicio de atención psicológica del CRAm, por ejemplo, una usuaria manifiesta que su experiencia fue muy buena, habló de temas muy delicados y siempre la trataron con respeto, ayudándola mucho. Nunca la forzaron a hablar de ningún tema y los profesionales tenían suficiente conocimiento en todo momento. Desde el servicio ofrecieron extenderlo pero la usuaria no lo consideró necesario ya que ya había recibido de allí toda la ayuda que necesitaba. 
