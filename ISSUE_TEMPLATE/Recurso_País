@@ -1,0 +1,26 @@
+name: Añadir Recurso para un País
+description: Sugiere un contacto de interés o descripción de un procedimiento para ser añadido a la wiki.
+title: "[Recurso]: "
+labels: ["Recurso"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ¡Gracias por tomarte el tiempo para enviar recursos! Mucha gente de tu comunidad local estará agradecida.
+  - type: input
+    id: País
+    attributes:
+      label: País
+      description: Ingresa el país del que quieres añadir información.
+      placeholder:
+    validations:
+      required: true
+  - type: textarea
+    id: info
+    attributes:
+      label: Información
+      description: Aquí puedes incluir la información que sugieres añadir a la wiki. Si se trata de un contacto de interés, en lo posible incluye al menos un enlace al sitio web del mismo.
+      placeholder:
+      value:
+    validations:
+      required: true
