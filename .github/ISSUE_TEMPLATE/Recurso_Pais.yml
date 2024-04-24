@@ -8,7 +8,7 @@ body:
       value: |
         "¡Gracias por tomarte el tiempo para enviar recursos! Mucha gente de tu comunidad local estará agradecida."
   - type: input
-    id: País
+    id: pais
     attributes:
       label: País
       description: "Ingresa el país del que quieres añadir información."
