@@ -3,8 +3,7 @@
 ## Tutoriales
 
 ### En español
-
-_Sin información disponible._
+* [Terapia de voz transgénero](https://emergepediatrictherapy.com/terapia-vocal-transgenero-introduccion-anatomia-y-tono/). Ejercicios y ayuda comprehensiva tanto para feminización como masculinización.
 
 ### En inglés
 * Canal: [Trans Vocal Training](https://www.youtube.com/user/scootergoat01).
@@ -15,6 +14,9 @@ _Sin información disponible._
 * [How To Achieve A Natural Male Voice (P2)](https://youtu.be/E1LpFwCrSBc). Canal Zoey Alexandria.
 * [How To Achieve A Natural Sounding Male Voice (Part 3)](https://youtu.be/6xUs4BNwRhM). Canal Zoey Alexandria.
 * [AVOIDING VOCAL-DAMAGE: Voice FEMINIZATION or MASCULINIZATION](https://youtu.be/UC_XEY6I2KU). Canal Zoey Alexandria.
+
+### Recursos Pagos
+* [One Weird Trick: A User's Guide to Transgender Voice](https://www.amazon.com/One-Weird-Trick-Users-Transgender/dp/1986757382?crid=XRT8F0T2FE4G&keywords=one+weird+trick:+a+guide&qid=1676568635&sprefix=one+weird+trick+a+guid,aps,88&sr=8-1&linkCode=sl1&tag=emergepediatr-20&linkId=86a5ee8aa1d30f7a7930fbef847173e3&language=en_US&ref_=as_li_ss_tl). Libro con muchos ejercicios y trucos. Tiene buenas reseñas, pero muchas indican que está orientado hacia personas que saben sobre términos musicales.
 
 ## Aplicaciones y Páginas Web Útiles
 
