@@ -10,8 +10,16 @@ body:
   - type: input
     id: pais
     attributes:
-      label: País
+      label: ¿Para cúal país es?
       description: "Ingresa el país del que quieres añadir información."
+      placeholder:
+    validations:
+      required: true
+ - type: input
+    id: comunidad
+    attributes:
+      label: ¿En que área aplica el recurso?
+      description: "Aclara si es para una provincia, comunidad, o estado específico. Si se encuentra en todo el país, se catalogiza como nacional."
       placeholder:
     validations:
       required: true
