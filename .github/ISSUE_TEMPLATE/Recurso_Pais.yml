@@ -15,7 +15,7 @@ body:
       placeholder:
     validations:
       required: true
- - type: input
+  - type: input
     id: comunidad
     attributes:
       label: ¿En que área aplica el recurso?
