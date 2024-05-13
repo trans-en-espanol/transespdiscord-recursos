@@ -4,9 +4,15 @@ Contactos de interés en Colombia, recuerda que puedes [contribuir](contribuir.m
 
 ## Nacionales
 
-* [Fundación GAAT](https://fundaciongaat.org/): asesoría legal, grupos de apoyo, estudios, ofertas de trabajo, etc.
-* [Red Comunitaria Trans](https://twitter.com/redcomunitariat): especializada en personas de mayor vulnerabilidad.
+* [Fundación GAAT](https://fundaciongaat.org/): Asesoría legal, grupos de apoyo, estudios, ofertas de trabajo, etc.
+* [Red Comunitaria Trans](https://twitter.com/redcomunitariat): Especializada en personas de mayor vulnerabilidad.
 * [+57 314 4316206](tel:+573144316206) (clic para llamar): Grupo de psicología transfriendly especializado en la comunidad LGBT+, llevan muchos años desde que se fundaron. Dan terapia individual, familiar y de pareja.
+
+## Medellín 
+
+* [Gerencia de Diversidades Sexuales e Identidades de Género](https://www.medellin.gov.co/es/diversidades-sexualidades-e-identidad-de-genero/): Dependencia encargada de la coordinación, implementación y articulación de políticas, planes, programas y proyectos tendientes a la promoción, protección, restitución y garantía de los derechos para la población con orientación sexual e Identidades de género no hegemónicas.
+  - Dirección: Carrera 48 # 57 – 21
+  - Número telefónico: 444 44 48 o 444 41 44
 
 ## Bogotá
 
