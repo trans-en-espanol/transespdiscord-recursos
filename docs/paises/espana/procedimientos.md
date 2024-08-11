@@ -114,6 +114,10 @@ Puede ser que se haya actualizado automáticamente en tu ayuntamiento (en el que
 
 Si tienes algún título académico, deberás acudir al centro que te lo expidió y solicitar la modificación de los datos.
 
+#### Bancos
+
+Cada banco tiene un procedimiento diferente para actualizar los datos personales, lo mejor es que contactes con los bancos en los que tienes cuenta y les preguntes.
+
 ## Andalucía
 
 * [Hoja de ruta para la transición en Andalucía](https://www.juntadeandalucia.es/export/drupaljda/salud_5af1956dc0019_hoja_ruta_trans_adultos.pdf).
