@@ -4,7 +4,8 @@ Contactos de interés en Perú, recuerda que puedes [contribuir](contribuir.md) 
 
 ## Nacionales
 
-_No se encuentra información_
+* [Observatorio Peruano de Productos Farmacéuticos](https://opm-digemid.minsa.gob.pe/#/consulta-producto): Base de datos de los medicamentos disponibles en el país. Muestra lugares y precios. Se actualiza cada 15 días.
+  * En lugares públicos como Surcosalud hay spironolactona y ciproterona más económicas que por privado, aunque es posible que pidan copia de la receta y hagan preguntas extra. Por privado solo requieren la receta. 
 
 ## Lima
 
