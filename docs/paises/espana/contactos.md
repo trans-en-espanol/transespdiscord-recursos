@@ -36,7 +36,7 @@ Contactos de interés en España, recuerda que puedes [contribuir](contribuir.md
 
 ## Castilla-La Mancha
 
-* [Asociación PLuRaL LGTB Mancha Centro](https://www.facebook.com/asociacionpluralLGTBManchacentro/).
+* [Asociación PLuRaL LGTBI+ Mancha Centro](https://plurallgtbi.org/).
 
 ## Castilla y León
 
