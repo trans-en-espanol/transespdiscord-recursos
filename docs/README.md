@@ -19,6 +19,7 @@ Te recomendamos leer primero el [glosario de términos](glosario.md).
 Disponemos de información de los siguientes países:
 
 * [Argentina](paises/argentina/argentina.md)
+* [Bolivia](paises/bolivia/bolivia.md)
 * [Chile](paises/chile/chile.md)
 * [Colombia](paises/colombia/colombia.md)
 * [Costa Rica](paises/costa-rica/costa-rica.md)
