@@ -1,2 +1,2 @@
 # Bolivia
-* [Procedimientos](docs/paises/bolivia/procedimientos.md)
+* [Procedimientos](paises/bolivia/procedimientos.md)
