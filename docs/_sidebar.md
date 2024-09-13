@@ -15,6 +15,7 @@
 
 - **Países**
     - [Argentina](paises/argentina/argentina.md)
+    - [Bolivia](paises/bolivia/bolivia.md)
     - [Chile](paises/chile/chile.md)
         - [Procedimientos](paises/chile/procedimientos.md)
         - [Contactos](paises/chile/contactos.md)
