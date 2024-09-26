@@ -29,11 +29,15 @@ Escribís la provincia en la que estás y te muestra todo tipo de recursos que p
 * [Derechos del Paciente en su Relación con los Profesionales e Instituciones de la Salud](http://servicios.infoleg.gob.ar/infolegInternet/anexos/160000-164999/160432/texact.htm)
 * [Ley 25.326: Ley de protección de datos personales (capítulo 3, artículo 16)](https://www.argentina.gob.ar/normativa/nacional/ley-25326-2000-64790) - Rectificaciones/supresión de datos
 
-### Para denuncias, acudir al INADI
+### Para denuncias, acudir a la DPN (Defensoría del Pueblo de la Nación Argentina)
 
-* [INADI](https://tramitesadistancia.gob.ar/tramitesadistancia/detalle-tipo?id=5552)
-* [Formulario de denuncia](https://www.argentina.gob.ar/sites/default/files/2018/08/formulario-denuncias-inadi.pdf)
-* [Instructivo de denuncia](https://www.argentina.gob.ar/sites/default/files/instructivo-formulario-denuncia-inadi.pdf)
+* [Sitio Web](https://www.dpn.gob.ar/index.php)
+* [Formulario de denuncia para Géneros y Diversidad](https://www.dpn.gob.ar/contactoAreas.php?idS=40)
+* Contacto vía la sede central:
+  * Horario de atención: Lunes a Viernes de 10 a 17hs
+  * Dirección: Suipacha 365 (C1008AAG) / CABA
+* Número Telefónico: +0810 333 3762
+* WhatsApp: +54 9 11 3762-4966
 
 ## Otros recursos
 
