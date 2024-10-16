@@ -28,7 +28,7 @@ Escribís la provincia en la que estás y te muestra todo tipo de recursos que p
 * [Ley 26.657: Ley de salud mental (capítulo 2, artículo 3)](https://www.argentina.gob.ar/normativa/nacional/ley-26657-175977) - Protección ante casos de patologización
 * [Derechos del Paciente en su Relación con los Profesionales e Instituciones de la Salud](http://servicios.infoleg.gob.ar/infolegInternet/anexos/160000-164999/160432/texact.htm)
 * [Ley 25.326: Ley de protección de datos personales (capítulo 3, artículo 16)](https://www.argentina.gob.ar/normativa/nacional/ley-25326-2000-64790) - Rectificaciones/supresión de datos
-* [Ley 27.636: Diana Sacayán - Lohana Berkins "Cupo Laboral Trans"](https://www.argentina.gob.ar/normativa/nacional/ley-27636-351815/texto)
+* [Ley 27.636: Diana Sacayán - Lohana Berkins "Cupo Laboral Trans"](https://servicios.infoleg.gob.ar/infolegInternet/anexos/350000-354999/351815/norma.htm)
 
 ### Para denuncias, acudir a la DPN (Defensoría del Pueblo de la Nación Argentina)
 
@@ -50,7 +50,7 @@ Escribís la provincia en la que estás y te muestra todo tipo de recursos que p
 * [Red PsicoDisidentes+](https://www.instagram.com/psicodisidentes/?utm_medium=copy_link)
 * [TranSistemas](https://www.instagram.com/transistemas/)
 * [Archetype](https://www.archetype.com.ar/): Tienda de lencería para toda clase de cuerpos, con un énfasis para personas trans.
-* [Movimiento Trans Argentina]([https://www.facebook.com/MUJERESTRANSARGENTINA1/)
+* [Movimiento Trans Argentina](https://www.facebook.com/MUJERESTRANSARGENTINA1/)
 * [Paternidades Trans Argentina](https://www.facebook.com/paternidadestrans)
 
 ### GBA
