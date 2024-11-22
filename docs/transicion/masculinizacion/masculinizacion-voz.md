@@ -20,6 +20,10 @@
 
 ## Aplicaciones y Páginas Web Útiles
 
+### Voice Tools
+* Android: https://play.google.com/store/apps/details?id=com.DevExtras.VoiceTools&hl=en
+* iOS: https://apps.apple.com/us/app/voice-tools/id1447495900
+
 ### Friture
 * PC: http://friture.org/
 
