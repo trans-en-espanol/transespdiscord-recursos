@@ -9,9 +9,9 @@
     "status_bar": "default",
     "icons": [
         {
-            "src": "assets/img/logo.webp",
+            "src": "assets/img/logo.jpg",
             "sizes": "512x512",
-            "type": "image/webp",
+            "type": "image/jpeg",
             "purpose": "maskable"
         }
     ],
