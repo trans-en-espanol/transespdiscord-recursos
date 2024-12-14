@@ -1,0 +1,26 @@
+{
+    "name": "Recursos Trans en Español",
+    "short_name": "Recursos",
+    "description": "Repositorio de recursos de Trans en Español.",
+    "start_url": "/",
+    "display": "standalone",
+    "scope": "/",
+    "orientation": "portrait",
+    "status_bar": "default",
+    "icons": [
+        {
+            "src": "assets/img/logo.webp",
+            "sizes": "512x512",
+            "type": "image/webp",
+            "purpose": "maskable"
+        }
+    ],
+    "related_applications": [
+        {
+            "platform": "webapp",
+            "url": "https://recursos.transespdiscord.net/manifest.json"
+        }
+    ],
+    "dir": "ltr",
+    "lang": "es"
+}
