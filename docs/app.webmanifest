@@ -18,7 +18,7 @@
     "related_applications": [
         {
             "platform": "webapp",
-            "url": "https://recursos.transespdiscord.net/manifest.json"
+            "url": "https://recursos.transespdiscord.net/app.webmanifest"
         }
     ],
     "dir": "ltr",
