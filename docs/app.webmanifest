@@ -30,5 +30,6 @@
     "health",
     "lifestyle",
     "medical"
-  ]
+  ],
+  "prefer_related_applications": false
 }
