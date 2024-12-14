@@ -51,6 +51,11 @@
   
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js" async></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js" defer></script>
+  <script>
+    if (typeof navigator.serviceWorker !== 'undefined') {
+      navigator.serviceWorker.register('sw.js')
+    }
+</script>
 </body>
 
 </html>
