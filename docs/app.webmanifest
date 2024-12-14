@@ -1,26 +1,34 @@
 {
-    "name": "Recursos Trans en Español",
-    "short_name": "Recursos TEE",
-    "description": "Repositorio de recursos de Trans en Español.",
-    "start_url": "/",
-    "display": "fullscreen",
-    "scope": "/",
-    "orientation": "portrait",
-    "status_bar": "default",
-    "icons": [
-        {
-            "src": "assets/img/logo.jpg",
-            "sizes": "512x512",
-            "type": "image/jpeg",
-            "purpose": "maskable"
-        }
-    ],
-    "related_applications": [
-        {
-            "platform": "webapp",
-            "url": "https://recursos.transespdiscord.net/app.webmanifest"
-        }
-    ],
-    "dir": "ltr",
-    "lang": "es"
+  "name": "Recursos Trans en Español",
+  "short_name": "Recursos TEE",
+  "description": "Repositorio de recursos de Trans en Español.",
+  "start_url": "/",
+  "display": "fullscreen",
+  "scope": "/",
+  "orientation": "portrait",
+  "status_bar": "default",
+  "icons": [
+    {
+      "src": "assets/img/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "webapp",
+      "url": "https://recursos.transespdiscord.net/app.webmanifest"
+    }
+  ],
+  "dir": "ltr",
+  "lang": "es",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "categories": [
+    "education",
+    "health",
+    "lifestyle",
+    "medical"
+  ]
 }
