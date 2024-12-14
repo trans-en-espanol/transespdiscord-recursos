@@ -31,5 +31,6 @@
     "lifestyle",
     "medical"
   ],
+  "handle_links": "preferred",
   "prefer_related_applications": false
 }
