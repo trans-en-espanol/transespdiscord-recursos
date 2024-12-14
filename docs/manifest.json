@@ -3,7 +3,7 @@
     "short_name": "Recursos TEE",
     "description": "Repositorio de recursos de Trans en Español.",
     "start_url": "/",
-    "display": "standalone",
+    "display": "fullscreen",
     "scope": "/",
     "orientation": "portrait",
     "status_bar": "default",
