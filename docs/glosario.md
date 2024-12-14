@@ -98,7 +98,7 @@ También hay miembros de un sistema creados conscientemente llamados “Tulpas�
 
 A una persona que no es plural se le llama “singlet” o “singular”.
 
-Importante: Si ves mensajes 'bot' escribiendo como una persona "normal" en [el servidor de Trans en Español](https://www.transespdiscord.net/servidor), es una persona plural que usa [el bot PluralKit](https://pluralkit.me/) para comunicarse. También conviene preguntar a cada sistema como debes referirte a sus miembros.
+Importante: Si ves mensajes 'bot' escribiendo como una persona "normal" en [el servidor de Trans en Español](https://servidor.transespdiscord.net), es una persona plural que usa [el bot PluralKit](https://pluralkit.me/) para comunicarse. También conviene preguntar a cada sistema como debes referirte a sus miembros.
 
 ## Términos ofensivos al colectivo
 
