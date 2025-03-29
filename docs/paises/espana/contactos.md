@@ -4,11 +4,10 @@ Contactos de interés en España, recuerda que puedes [contribuir](contribuir.md
 
 ## Nacionales
 
-* [FELGTBI+](https://felgtb.org/) (Federación Estatal de Lesbianas, Gais, Trans, Bisexuales, Intersexuales y más): organización que agrupa a una gran cantidad de otras entidades LGTBI+ a nivel nacional. Disponen de recursos para encontrar trabajo, asesoramiento, formación, entre otras cosas.
+* [FELGTBI+](https://felgtbi.org/) (Federación Estatal de Lesbianas, Gais, Trans, Bisexuales, Intersexuales y más): organización que agrupa a una gran cantidad de otras entidades LGTBI+ a nivel nacional. Disponen de recursos para encontrar trabajo, asesoramiento, formación, entre otras cosas.
     * Disponen de un programa para la inserción sociolaboral llamado [Yes We Trans](https://felgtbi.org/yeswetrans/).
 * [Chrysallis](https://chrysallis.org/) (Asociación de familias de Infancia y Juventud Trans*): enfocada a menores y sus familias.
 * [Transexualia](http://transexualia.org/) (Asociación de Transexuales).
-* [KifKif](https://kifkif.info/): asociación enfocada a personas trans migrantes.
 
 ## Andalucía
 
