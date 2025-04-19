@@ -17,13 +17,15 @@
 ### En inglés
 * Canal: [TransVoiceLessons](https://www.youtube.com/@TransVoiceLessons), probablemente uno de los mejores recursos que existen para feminización de la voz.
 * Canal: [Trans Vocal Training](https://www.youtube.com/user/scootergoat01).
-* [The Art of Voice Feminization | Part 1: Overview, Acoustic Resonance, and A Conceptual Framework](https://youtu.be/ynFqjE2AEGk).
-* [The Art of Voice Feminization | Part 2A: Larynx Basics, How to Raise the Larynx, and Common Issues](https://youtu.be/iTViDd0QPEI).
-* [The Single MOST Powerful Element of Voice Feminization: The Gender Dial (R1) | Exercises & Lecture](https://youtu.be/BW8X2nXexQs).
-* [Easy steps to voice feminize!](https://youtu.be/otCf3_PbLHA).
-* [Fem Voice As Fast As Possible: How To Feminize Your Voice In 8 Minutes](https://youtu.be/MbzScCDKfGQ?si=hutXugznpCEKf5nb). Canal AmaRoseLessons
+* Vídeo: [The Art of Voice Feminization | Part 1: Overview, Acoustic Resonance, and A Conceptual Framework](https://youtu.be/ynFqjE2AEGk).
+* Vídeo: [The Art of Voice Feminization | Part 2A: Larynx Basics, How to Raise the Larynx, and Common Issues](https://youtu.be/iTViDd0QPEI).
+* Vídeo: [The Single MOST Powerful Element of Voice Feminization: The Gender Dial (R1) | Exercises & Lecture](https://youtu.be/BW8X2nXexQs).
+* Vídeo: [Easy steps to voice feminize!](https://youtu.be/otCf3_PbLHA).
+* Vídeo: [Fem Voice As Fast As Possible: How To Feminize Your Voice In 8 Minutes](https://youtu.be/MbzScCDKfGQ?si=hutXugznpCEKf5nb). Canal AmaRoseLessons.
 * [An organized collection of Selene Da Silva's clips](https://www.reddit.com/r/transvoice/comments/ztdtll/an_organized_collection_of_selene_da_silvas_clips/?utm_source=share&utm_medium=web2x&context=3).
 * Canal: [The Voice Stylist](https://www.youtube.com/@TheVoiceStylist/videos).
+* [L's Voice Training Guide for MTF transgender vocal feminization](https://www.reddit.com/r/transvoice/comments/d3clhe/ls_voice_training_guide_level_1_for_mtf/).
+* Lista de Reproducción: [MTF Trans Voice Tutorials by FairyPrincessLucy](https://www.youtube.com/playlist?list=PLkZ-3sMGEmDwlD5zNgEtWJwz8WDt6H8OZ).
 
 ### Recursos Pagos
 * Inglés:
