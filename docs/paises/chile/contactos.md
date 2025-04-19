@@ -8,6 +8,6 @@ Contactos de interés en Chile, recuerda que puedes [contribuir](contribuir.md) 
 * [chile_trans.cl](https://www.instagram.com/chile_trans.cl/?igshid=NzZhOTFlYzFmZQ%3D%3D): Página de Instagram ofreciendo información y ayuda en general.
 
 
-* Doctores
+## Doctores
 * [Burdas.cl](https://burdas.cl/profesionales/listado.php): Listado de profesionales LGBTIQ+ amigables.
 * [Dra. Carmen Palma Robles](https://www.doctoralia.cl/carmen-palma-robles/endocrinologo/las-condes). Endocrinóloga que ha trabajado con personas trans.
