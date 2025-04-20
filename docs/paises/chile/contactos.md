@@ -11,3 +11,5 @@ Contactos de interés en Chile, recuerda que puedes [contribuir](contribuir.md) 
 ## Doctores
 * [Burdas.cl](https://burdas.cl/profesionales/listado.php): Listado de profesionales LGBTIQ+ amigables.
 * [Dra. Carmen Palma Robles](https://www.doctoralia.cl/carmen-palma-robles/endocrinologo/las-condes). Endocrinóloga que ha trabajado con personas trans.
+* [Dra. Javiera Barros](https://sanasalud.cl/profesional/javiera-barros/). Receta hormonas para el tratamiento de reemplazo hormonal. Trabaja en Sanasalud Pedro de Valdivia.
+* [Dra. Melissa Cifuentes](https://www.instagram.com/dra.melissa.cifuentes/?hl=en). Uróloga, Uro-Ginecóloga, y realiza genitoplastías feminizantes.
