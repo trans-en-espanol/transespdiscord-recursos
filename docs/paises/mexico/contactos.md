@@ -6,7 +6,9 @@ Contactos de interés en México, recuerda que puedes [contribuir](contribuir.md
 
 * [Dra. Daniela Muñoz Jiménez](https://www.transsalud.com/nosotres/dra-daniela-mu%C3%B1oz): Autora de cursos sobre el Tratamiento Hormonal de Afirmación de Género "THAG". Impartidos a diversas asociaciones dedicadas a la atención médica, psicológica, psiquiátrica y legal de la Comunidad Trans. (AMSSAC, IMPULSO TRANS, etc). Hace consultas online tanto como presencial.
 * [Dra Mitzi Zaira Fong Ponce](https://www.doctoralia.com.mx/mitzi-zaira-fong-ponce/endocrinologo-internista/benito-juarez): Endocrinóloga con conocimientos sobre el TRH en personas trans. Trabaja en la Clínica Condesa, ofrece turnos por privado y modalidad de consulta en línea. Número de contacto: +52 33 3667 7272.
+* [Lic. Paulina Carrasco Hernández](https://www.doctoralia.com.mx/paulina-carrasco-hernandez/psicologo/ciudad-de-mexico): Psicóloga trans. Si bien se encuentra en CDMX, también atiende por modalidad online y a extranjeros. Primera sesión gratis para analizar y plantear su esquema de trabajo. Número de contacto: +52 55 4378 4553.
 
+  
 ## Nacionales
 
 * [Impulso Trans A.C.](https://impulsotransac.org/): Apoyo en general. Su número de WhatsApp para consultoría jurídica es +52 33 1038 2509.
