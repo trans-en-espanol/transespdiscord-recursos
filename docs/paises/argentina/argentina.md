@@ -44,6 +44,7 @@ Escribís la provincia en la que estás y te muestra todo tipo de recursos que p
 
 ### Todo el país
 
+*[Registro de Profesionales en Psicología con formación en Psicoterapia desde Prácticas Basadas en Evidencia en Argentina](https://docs.google.com/spreadsheets/d/1EEO62CfRugTVZ5kWyQlWyS5aDXtlop0Hh7oy65Q0HG4/htmlview#): Tiene una columna donde indica si el profesional ha tenido formación en Perspectiva de Género/LGBTIQ+. Variadas provincias y profesionales con atención online.
 * [Programa Acompañar](https://www.argentina.gob.ar/generos/plan_nacional_de_accion_contra_las_violencias_por_motivos_de_genero/programa-acompanar): Su objetivo principal es fortalecer la independencia económica de mujeres y LGBTI+ en situación de violencia de género.
 * [Fundación Trans Argentinxs](https://www.instagram.com/transargentinxs/): Asesoramiento y acompañamiento a niñxs, adolescentes y juventudes Trans-NB en Arg (hasta 24 años).
 * [Todes con DNI](https://www.instagram.com/todescondni/): Organizazión para personas no binarias
