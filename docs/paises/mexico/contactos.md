@@ -20,6 +20,12 @@ Contactos de interés en México, recuerda que puedes [contribuir](contribuir.md
 * [IMSS](http://www.imss.gob.mx/): Atención gratuita y algunos médicos especializados en personas trans. Especialmente recomendado en caso de que el médico familiar se niegue mandar a un endocrino para la atención, mandan una carta y con ella recibirías el TRH.
 * [Clínica Trans y No Binarie](https://bit.ly/m/clinica-trans-y-no-binarie): De Mastoclinic. Servicios integrales para la transición y salud diversa.
 * [Unidad de Salud Integral para Personas Trans (USIPT)](https://www.instagram.com/usipt/?igsh=MWpneDhzbHk2eHh3): Brinda servicios de medicina general, endocrinología, psicología, psiquiatria, estudios de laboratorio y ultrasonido, ginecología, dermatología, salud sexual y salud comunitaria.
+* [Visible](https://visible.lgbt/jalisco/): Para reportar incidentes de violencia (acoso, abuso, discriminación) contra las personas LGBTQ+.
+  * Disponible en los estados de Aguascalientes, Baja California, Baja California Sur, Campeche, Ciudad de México, Coahuila, Estado de México, Guanajuato, Guerrero, Hidalgo, Jalisco, Michoacán, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, Quintana Roo, San Luis Potosí, Veracruz, Yucatán, Zacatecas.
+* [Asociación por las Infancias Transgénero](https://infanciastrans.org/): Su objetivo asistir gratuitamente los procesos de reconocimiento de la identidad de género de Infancias y Adolescencias Trans y No Binarias, en el campo jurídico, educativo, de salud y social. [Instagram](https://www.instagram.com/infanciast).
+
+
+
 
 ## Ciudad de México (CMDX)
 * [Unidad de Salud Integral para Personas Trans (USIPT)](https://www.salud.cdmx.gob.mx/acciones/unidad-de-salud-integral-para-personas-trans-usipt): Su misión es garantizar el derecho a la Salud de las personas Trans y no binarias para gozar de un estado de bienestar biopsicosocial libre de estigma, exclusión y discriminación, basada en evidencia científica, a través de un enfoque de salud integral y comunitario, considerando los factores sociales, culturales, económicos y legales que podrían impactar en su salud; con enfoque de reducción de daños; de desarrollando redes de apoyo, orientaciones, programas de capacitación sensibilización con perspectiva de género y Derechos Humanos; promoviendo la participación informada plena y contínua de las personas trans en las decisiones sobre su salud y bienestar.
