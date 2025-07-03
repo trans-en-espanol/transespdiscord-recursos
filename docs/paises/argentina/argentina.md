@@ -61,7 +61,10 @@ Escribís la provincia en la que estás y te muestra todo tipo de recursos que p
 ### La Plata
 
 * [Otrans Argentina](https://www.facebook.com/otransarg/)
-
+* [Casa Salud: Cuidados Integrales en Salud](https://www.instagram.com/casasalud.ok): Centro de salud capacitado para atender a personas transgénero. Especializaciones: Med. general, Psicología, Psicopedagogía, Fonoaudiología, Nutrición, Pediatría, Dermatología, Ginecología, Obstetricia, entre otras. Aceptan obras sociales.
+  * Ubicación: Avenida 1, altura 1557, esquina calle 64
+  * Whatsapp: +54 9 221 221-5018
+  
 ### Mar del Plata
 
 * [Movimiento Trans Masculinidades](https://www.facebook.com/movimientotransmasculinidades)
