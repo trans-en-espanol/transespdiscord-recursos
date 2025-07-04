@@ -42,9 +42,10 @@ Escribís la provincia en la que estás y te muestra todo tipo de recursos que p
 
 ## Otros recursos
 
-### Todo el país
+### Nacionales
 
-*[Registro de Profesionales en Psicología con formación en Psicoterapia desde Prácticas Basadas en Evidencia en Argentina](https://docs.google.com/spreadsheets/d/1EEO62CfRugTVZ5kWyQlWyS5aDXtlop0Hh7oy65Q0HG4/htmlview#): Tiene una columna donde indica si el profesional ha tenido formación en Perspectiva de Género/LGBTIQ+. Variadas provincias y profesionales con atención online.
+* [ATTTA: Asociación de Travestis, Transexuales y Transgéneros de Argentina](https://www.instagram.com/atttarednacional/?hl=en): Trabaja por el cumplimiento y respeto de los Derechos Humanos para la población trans.
+* [Registro de Profesionales en Psicología con formación en Psicoterapia desde Prácticas Basadas en Evidencia en Argentina](https://docs.google.com/spreadsheets/d/1EEO62CfRugTVZ5kWyQlWyS5aDXtlop0Hh7oy65Q0HG4/htmlview#): Tiene una columna donde indica si el profesional ha tenido formación en Perspectiva de Género/LGBTIQ+. Variadas provincias y profesionales con atención online.
 * [Programa Acompañar](https://www.argentina.gob.ar/generos/plan_nacional_de_accion_contra_las_violencias_por_motivos_de_genero/programa-acompanar): Su objetivo principal es fortalecer la independencia económica de mujeres y LGBTI+ en situación de violencia de género.
 * [Fundación Trans Argentinxs](https://www.instagram.com/transargentinxs/): Asesoramiento y acompañamiento a niñxs, adolescentes y juventudes Trans-NB en Arg (hasta 24 años).
 * [Todes con DNI](https://www.instagram.com/todescondni/): Organizazión para personas no binarias
@@ -54,8 +55,14 @@ Escribís la provincia en la que estás y te muestra todo tipo de recursos que p
 * [Movimiento Trans Argentina](https://www.facebook.com/MUJERESTRANSARGENTINA1/)
 * [Paternidades Trans Argentina](https://www.facebook.com/paternidadestrans)
 
+### Capital Federal
+* [Casa Brandon](https://brandon.org.ar/): Espacio cultural LGBTTIQ+ en Villa Crespo (Centro de formación, encuentros, eventos culturales). Referente activo en comunidad trans/travesti.
+* [ATTTA – Hombres Trans](https://www.facebook.com/atttahombrestrans/?locale=es_LA): Red nacional con grupos de encuentro, deporte, asesoramiento y apoyo mutuo específicamente para hombres trans.
+  * Contacto CABA: atttahombrestranscaba@gmail.com / WhatsApp +54 9 11‑5032‑6335 
+
 ### GBA
 
+* [Casa Trans](https://buenosaires.gob.ar/vicejefatura/derechoshumanos/diversidad-sexual/casa-trans): Espacio de contención, sociabilidad y protección de los derechos orientado a la población trans, brindando servicios a toda la comunidad, ofreciendo capacitación en oficios, atención sanitaria, orientación jurídica y espacios recreativos. 
 * [La casa de Lohana y Diana](https://twitter.com/lacasadelohana): Centro de integración travesti-trans y LGBTI+. Se encuentra en Laferrere, La Matanza.
 
 ### La Plata
