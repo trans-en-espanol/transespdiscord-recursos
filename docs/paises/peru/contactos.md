@@ -6,7 +6,7 @@ Contactos de interés en Perú, recuerda que puedes [contribuir](contribuir.md) 
 
 * [Observatorio Peruano de Productos Farmacéuticos](https://opm-digemid.minsa.gob.pe/#/consulta-producto): Base de datos de los medicamentos disponibles en el país. Muestra lugares y precios. Se actualiza cada 15 días.
   * En lugares públicos como Surcosalud hay spironolactona y ciproterona más económicas que por privado, aunque es posible que pidan copia de la receta y hagan preguntas extra. Por privado solo requieren la receta.
-* Abogada Johana Sotelo. Trabaja en la firma "SOTELO M'S & ASOCIADOS SACS"
+* Abogada Johana Sotelo. Trabaja en la firma "SOTELO M'S & ASOCIADOS SACS". Tiene conocimientos pertintentes al cambio de nombre y sexo en documentos legales.
   * Número telefónico: [+51 976 614 002](tel:+51976614002) (clic para llamar)
   * Número telefónico de su asistente (para agendar citas): [+51 979 395 155](tel:+51979395155) (clic para llamar)
  
