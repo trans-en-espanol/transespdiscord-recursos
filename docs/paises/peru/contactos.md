@@ -10,7 +10,8 @@ Contactos de interés en Perú, recuerda que puedes [contribuir](contribuir.md) 
 ## Lima
 
 * Asociación GEMAS: Dr. Alberto Sanchez. Sólo TRH feminizante.
-  * Dirección: Centro Voluntades. Av. Alfredo Mendiola 4040 urb. Naranjal San Martin de Porres. Altura del metro de la Panamericana Norte. 
+  * Dirección: Calle Los Melocotones 424 urb. Naranjal San Martín de Porras. Frente al parque de la U.
+  * Horarios: De 11am a 6pm.  
   * Número Telefónico: [+51 991 009 453](tel:+51991009453) (clic para llamar).
 * [Asociación Civil Impacta](https://www.facebook.com/ImpactaSalud/?locale=es_LA). Ofrecen hormonización para personas trans. El coste actual de la consulta son 20 soles (03/05/2024), también se deben pagar los exámenes, pero las hormonas y bloqueadores son gratis.
   * Dirección: Jr. Putumayo 177, San Miguel. (Alt. c. 22 de la Av. La Mar).
