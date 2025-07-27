@@ -23,7 +23,7 @@ Contactos de interés en México, recuerda que puedes [contribuir](contribuir.md
 * [Visible](https://visible.lgbt/jalisco/): Para reportar incidentes de violencia (acoso, abuso, discriminación) contra las personas LGBTQ+.
   * Disponible en los estados de Aguascalientes, Baja California, Baja California Sur, Campeche, Ciudad de México, Coahuila, Estado de México, Guanajuato, Guerrero, Hidalgo, Jalisco, Michoacán, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, Quintana Roo, San Luis Potosí, Veracruz, Yucatán, Zacatecas.
 * [Asociación por las Infancias Transgénero](https://infanciastrans.org/): Su objetivo asistir gratuitamente los procesos de reconocimiento de la identidad de género de Infancias y Adolescencias Trans y No Binarias, en el campo jurídico, educativo, de salud y social. [Instagram](https://www.instagram.com/infanciast).
-
+* [Casa de las Muñecas Tiresias](https://www.munecastiresias.org/): Asociación civil transfeminista. Se dedica a la lucha por los derechos humanos de poblaciones vulnerables.
 
 
 
