@@ -28,8 +28,14 @@ La terapia hormonal consiste en dos medicamentos: estrógenos (la hormona femeni
 #### ¿Tendré la regla?
 No sangrarás, este tipo de intervenciones solo pretenden cambiar la apariencia externa de los genitales, sin embargo, existe la posibilidad de sufrir dolores menstruales debido a las hormonas.
 
-## Enlaces de interés
+## Otros Enlaces de interés
 * [Guía en imágenes que explica la hormonación feminizante.](https://imgur.com/a/ztmJBy7)
-* [Recurso acerca del "tucking"](https://fs.hubspotusercontent00.net/hubfs/20580006/for-professionals/Flyer_TuckingSafely.pdf) que consiste en ocultar los genitales para que no se vea la protuberancia en la ropa.
-* [Calculadora para saber la talla de sujetador perfecta.](https://www.abrathatfits.org/calculator.php)
-* [Guías de maquillaje y cuidado de la piel.](https://youtube.com/c/nikkietutorials)
+* [Passing as Female | Male to Female Transgender / Transsexual](https://youtu.be/XLTcwqfDKXE?si=9xfmFwwcUg3DRJmA). Video en inglés sobre cómo feminizar la presentación de género.
+* [BEGINNER'S Guide: Transgender Feminizing Makeup 101- First Time Wearing Makeup Class for Trans Women](https://www.youtube.com/watch?v=VXMYj1ziuSM). Video en inglés sobre el maquillaje, para principiantes.
+* [Guías de maquillaje y cuidado de la piel](https://youtube.com/c/nikkietutorials). Canal tutorial en inglés.
+* [Calculadora para saber la talla de sujetador perfecta](https://www.abrathatfits.org/calculator.php)
+ 
+### Tucking
+El tucking consiste en ocultar los genitales para que no se note la protuberancia en la ropa.
+* [Tucking de manera segura](https://fs.hubspotusercontent00.net/hubfs/20580006/for-professionals/Flyer_TuckingSafely.pdf). Flyer en inglés.
+* [How To Tuck & I got Electrolysis Covered by Insurance!!! (MTF Transgender)](https://youtu.be/ftZgR_zNlUM?si=HP3gcY1pRAqdPQ3h). Video explicativo en inglés.
