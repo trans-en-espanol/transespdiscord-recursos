@@ -4,7 +4,7 @@ Procedimientos en Perú, recuerda que puedes [contribuir](contribuir.md) a esta 
 
 ## Información general
 ### Cambio de nombre y sexo en documentos legales
-Para ambos se necesita un informe psicológico. En [contactos](peru/contactos.md) se nota una abogada de confianza que es acompañada de una psicóloga. Si ya se es atendide por une psiquiatre y se puede agregar un diagnóstico de disforia de genero, aún mejor.
+Para ambos se necesita un informe psicológico. En [contactos](contactos.md) se nota una abogada de confianza que es acompañada de una psicóloga. Si ya se es atendide por une psiquiatre y se puede agregar un diagnóstico de disforia de genero, aún mejor.
 * Cambio de nombre: Requiere un registro legal de que se ha estado en tratamiento de reemplazo hormonal cruzado por al menos 6 meses, aunque es más posible que se apruebe si ha sido por más tiempo - un año suele ser lo recomendado (dependiendo del juez), así como evidencia de que se ha estado viviendo como el género con el que se identifica durante ese tiempo.
 * Cambio de sexo legal: Requiere al menos una operación de afirmación de género, como por ejemplo: aumento de senos, mastectomía, orquiectomía, histerectomía, feminización/masculización facial, y tener un informe médico que valide el hecho.
 
