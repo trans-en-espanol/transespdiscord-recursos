@@ -6,6 +6,8 @@ Contactos de interés en Chile, recuerda que puedes [contribuir](contribuir.md) 
 * [MUMS | Movimiento por la Diversidad Sexual y de Género](http://mums.cl/): Movimiento social y político que lucha por los derechos civiles y humanos de la diversidad sexual y de género
 * [Apoyo Familiar Trans Rancagua](https://instagram.com/apoyofamiliartransrancagua)
 * [chile_trans.cl](https://www.instagram.com/chile_trans.cl/?igshid=NzZhOTFlYzFmZQ%3D%3D): Página de Instagram ofreciendo información y ayuda en general.
+* [Crece Con Orgullo](https://www.crececonorgullo.cl/): También conocido como Progama de Acompañamiento a la Identidad de Género (PAIG). Programa dirigido a personas trans y de género no conforme de 3 a 17 años de edad y a sus familias.
+
 
 
 ## Doctores
