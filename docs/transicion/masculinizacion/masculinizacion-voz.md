@@ -7,7 +7,7 @@
 
 ### En inglés
 * Canal: [Trans Vocal Training](https://www.youtube.com/user/scootergoat01).
-* [How To Masculinize Your Voice (Transmasculine Voice) - Lowering The Larynx]((https://www.youtube.com/watch?v=F9kWcvHAa8w&feature=youtu.be)). Canal AmaRoseLessons.
+* [How To Masculinize Your Voice (Transmasculine Voice) - Lowering The Larynx](https://www.youtube.com/watch?v=F9kWcvHAa8w&feature=youtu.be). Canal AmaRoseLessons.
 * [How To Make Your Voice Deeper - Adding Vocal Weight](https://youtu.be/BFmOrsHEwyU). Canal AmaRoseLessons.
 * [How To Masculinize Your Voice: Transmasculine Voice (As Fast As Possible)](https://youtu.be/0TYGM1UbUfw?si=0DZFRTY2ElEHYZ6S). Canal AmaRoseLessons.
 * [How to Deepen Your Voice Safely (For Trans Men)](https://www.youtube.com/watch?v=Ud_ZmEwZLcI). Canal jackmarl.
