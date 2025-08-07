@@ -37,6 +37,7 @@ Contactos de interés en España, recuerda que puedes [contribuir](contribuir.md
 ## Castilla-La Mancha
 
 * [Asociación PLuRaL LGTBI+ Mancha Centro](https://plurallgtbi.org/).
+* [Servicio de atención integral a personas LGTBI](https://lgtbi.castillalamancha.es/servicio-de-atencion-personas-lgtbi): Para llenar el formulario, bajar al fondo y hacer click en "Contacto". Apoyo psicológico, social, y jurídico.
 
 ## Castilla y León
 
