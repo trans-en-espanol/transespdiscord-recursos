@@ -106,3 +106,6 @@ Contactos de interés en España, recuerda que puedes [contribuir](contribuir.md
 * [Castelló LGTBI](https://castellolgtbi.es/).
 * [Diversitat](https://www.diversitat.es/).
 * [Lambda Valencia](https://lambdavalencia.org/).
+* Dr. Manuel Lapertosa Gorban: Endocrinólogo con formación para atender a personas trans.
+  * Atiende en la Clinica San Martín y por privado.
+  * Email de contacto: dr.manuel.lapertosa@gmail.com
