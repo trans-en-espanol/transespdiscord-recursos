@@ -30,6 +30,8 @@ Contactos de interés en México, recuerda que puedes [contribuir](contribuir.md
 ## Ciudad de México (CMDX)
 * [Unidad de Salud Integral para Personas Trans (USIPT)](https://www.salud.cdmx.gob.mx/acciones/unidad-de-salud-integral-para-personas-trans-usipt): Su misión es garantizar el derecho a la Salud de las personas Trans y no binarias para gozar de un estado de bienestar biopsicosocial libre de estigma, exclusión y discriminación, basada en evidencia científica, a través de un enfoque de salud integral y comunitario, considerando los factores sociales, culturales, económicos y legales que podrían impactar en su salud; con enfoque de reducción de daños; de desarrollando redes de apoyo, orientaciones, programas de capacitación sensibilización con perspectiva de género y Derechos Humanos; promoviendo la participación informada plena y contínua de las personas trans en las decisiones sobre su salud y bienestar.
 
+## Tijuana
+* [Dr. Iván Castro](https://www.endocrinotijuana.com/terapias-transgenero/): Endocrinólogo especializado en personas transgénero.
 
 ## Documentos
 
