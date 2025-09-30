@@ -57,6 +57,7 @@ Contactos de interés en España, recuerda que puedes [contribuir](contribuir.md
 * [ALAS A Coruña](https://alasacoruna.org/).
 * [Nós Mesmas](https://www.facebook.com/asociacionnosmesmas).
 * [ARELAS](https://asociacionarelas.org/): Asociación formada por familias de niñes y adolescentes trans.
+* [Ana B. Taboada](https://www.facebook.com/psicologianataboada/): Intervención Psicologica en el ámbito Infantojuvenil y Atención a la Diversidad. Si bien no se especializa en personas trans, es trans-friendly.
 
 ## Islas Baleares
 
