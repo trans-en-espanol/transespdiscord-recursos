@@ -1,3 +1,3 @@
 # Nicaragua
-* [Contactos](paises/nicaragua/contactos.md)
-* [Procedimientos](paises/nicaragua/procedimientos.md)
+* [Contactos](contactos.md)
+* [Procedimientos](procedimientos.md)
