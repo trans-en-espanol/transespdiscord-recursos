@@ -84,6 +84,7 @@ Contactos de interés en España, recuerda que puedes [contribuir](contribuir.md
 * [Fundación 26 de Diciembre](https://fundacion26d.org/).
 * Hospital Universitario Ramón y Cajal:
     * [Endocrinología (para información y gestión de citas)](https://www.comunidad.madrid/hospital/ramonycajal/ciudadanos-oferta-asistencial/servicios-medicos/endocrinologia-nutricion#contact) (email: [endocrinologia.nutricion.hrc@salud.madrid.org](mailto:endocrinologia.nutricion.hrc@salud.madrid.org), para gestionar citas es importante indicar el número de la historia clínica).
+* [Fundación Eddy](https://fundacioneddy.org/): Hogar de acogida para jóvenes LGBTIQA+ de entre 18 y 30 años que han sido víctimas de violencia familiar, bullying o cualquier forma de LGBTIQfobia y están en riesgo de exclusión social.
 
 ## Murcia
 
