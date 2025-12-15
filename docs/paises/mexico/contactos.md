@@ -36,6 +36,9 @@ Contactos de interés en México, recuerda que puedes [contribuir](contribuir.md
 * [Dr. Iván Castro](https://www.endocrinotijuana.com/terapias-transgenero/): Endocrinólogo especializado en personas transgénero.
 * [Clínica Trans (Centro de Servicios SER)](http://centroser.org/clinica-trans/): Programa de salud enfocado a la supervisión médica y psicológica de personas trans en su proceso de transición de género. Servicio disponible en toda Baja California.
 
+## Yucatán
+* [Yucatrans, Asociación Transgénero Yucatán A.C.](https://www.facebook.com/YUCATRANS/?locale=es_LA): ONG cuya misión es combatir la transfobia y elevar la calidad de vida de las personas travestis, transgénero y transexuales de Yucatán.
+
 ## Documentos
 
 * [PDF: Directorio de terapeutas en México.](https://recursos.transespdiscord.net/paises/mexico/adjuntos/Directorio_Terapeutas_Mexico.pdf)
