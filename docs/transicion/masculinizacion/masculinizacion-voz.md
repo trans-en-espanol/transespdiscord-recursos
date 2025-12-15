@@ -22,6 +22,10 @@
 
 ## Aplicaciones y Páginas Web Útiles
 
+### Voice Resource Project
+* Recolección de recursos para ayudar a entrenar la voz. En inglés.
+  * Web: https://wiki.sumianvoice.com/
+
 ### Voice Tools
 * Android: https://play.google.com/store/apps/details?id=com.DevExtras.VoiceTools&hl=en
 * iOS: https://apps.apple.com/us/app/voice-tools/id1447495900
