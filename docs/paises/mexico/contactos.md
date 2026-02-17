@@ -8,6 +8,8 @@ Contactos de interés en México, recuerda que puedes [contribuir](contribuir.md
 * [Dra Mitzi Zaira Fong Ponce](https://www.doctoralia.com.mx/mitzi-zaira-fong-ponce/endocrinologo-internista/benito-juarez): Endocrinóloga con conocimientos sobre el TRH en personas trans. Trabaja en la Clínica Condesa, ofrece turnos por privado y modalidad de consulta en línea. Número de contacto: +52 33 3667 7272.
 * [Lic. Paulina Carrasco Hernández](https://www.doctoralia.com.mx/paulina-carrasco-hernandez/psicologo/ciudad-de-mexico): Psicóloga trans. Si bien se encuentra en CDMX, también atiende por modalidad online y a extranjeros. Primera sesión gratis para analizar y plantear su esquema de trabajo. Número de contacto: +52 55 4378 4553.
 
+## Servicios
+* [Magistrans](https://magistrans.com/): Servicio de subscripción que brinda acceso a hormonas, consultas, análisis de sangre, etc
   
 ## Nacionales
 
