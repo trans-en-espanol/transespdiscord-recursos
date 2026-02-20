@@ -21,6 +21,6 @@ Contactos de interés en Perú, recuerda que puedes [contribuir](contribuir.md) 
   * Dirección: Jr. Putumayo 177, San Miguel. (Alt. c. 22 de la Av. La Mar).
   * Número telefónico: [511 562-1600](tel:5115621600) (clic para llamar).
 * [MHOL](https://www.facebook.com/mholperu/) (Movimiento Homosexual de Lima).
-* Dr. Alberto Allemant: Endocrinólogo que trabaja en el [Policlinico Peruano Japonés](https://www.policlinicoperuanojapones.org/). La cita se debe pedir a través de la aplicación del policlínico.
+* Dr. Alberto Allemant: Endocrinólogo que trabaja en el [Policlinico Peruano Japonés](https://www.policlinicoperuanojapones.org/). La cita se debe pedir a través de la aplicación del policlínico. Si bien tiene experiencia con el TRH para personas trans, prepararse por posible missgender y deadnaming.
 * Dra. Erika Akemi Chiu Higa: Endocrinóloga. Atiende en varias clínicas.
   * Número telefónico: [+51 999 274 495](tel:+51999274495) (clic para llamar).
