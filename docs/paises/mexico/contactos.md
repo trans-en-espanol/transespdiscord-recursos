@@ -3,10 +3,17 @@
 Contactos de interés en México, recuerda que puedes [contribuir](contribuir.md) a esta página si dispones de más información.
 
 ## Especialistas
-
+### Endocrinología
 * [Dra. Daniela Muñoz Jiménez](https://www.transsalud.com/nosotres/dra-daniela-mu%C3%B1oz): Autora de cursos sobre el Tratamiento Hormonal de Afirmación de Género "THAG". Impartidos a diversas asociaciones dedicadas a la atención médica, psicológica, psiquiátrica y legal de la Comunidad Trans. (AMSSAC, IMPULSO TRANS, etc). Hace consultas online tanto como presencial.
 * [Dra Mitzi Zaira Fong Ponce](https://www.doctoralia.com.mx/mitzi-zaira-fong-ponce/endocrinologo-internista/benito-juarez): Endocrinóloga con conocimientos sobre el TRH en personas trans. Trabaja en la Clínica Condesa, ofrece turnos por privado y modalidad de consulta en línea. Número de contacto: +52 33 3667 7272.
 * [Lic. Paulina Carrasco Hernández](https://www.doctoralia.com.mx/paulina-carrasco-hernandez/psicologo/ciudad-de-mexico): Psicóloga trans. Si bien se encuentra en CDMX, también atiende por modalidad online y a extranjeros. Primera sesión gratis para analizar y plantear su esquema de trabajo. Número de contacto: +52 55 4378 4553.
+
+### Cirujanos (Cirugía de feminización facial)
+* [Dr. Hector Malagon](https://www.instagram.com/ffs_mexico/?hl=es)
+* [Dr. Jesús Baez](https://www.instagram.com/dr.jesbam/?hl=en)
+* [Dr. Lázaro Cardenas](https://www.instagram.com/dr.lazaro_cardenas_camarena/)
+* [Dr. Moisés Guerrero](https://www.facebook.com/Dr.MoisesGuerrero/)
+* [Dr. Gerardo Muñoz Jimenez](https://www.instagram.com/drgerardomj/)
 
 ## Servicios
 * [Magistrans](https://magistrans.com/): Servicio de subscripción que brinda acceso a hormonas, consultas, análisis de sangre, etc
