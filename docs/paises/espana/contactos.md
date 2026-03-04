@@ -2,6 +2,9 @@
 
 Contactos de interés en España, recuerda que puedes [contribuir](contribuir.md) a esta página si dispones de más información.
 
+### Sitios Útiles:
+[Buscador de Medicamentos con Precios del Ministerio de Sanidad](https://www.mscbs.gob.es/profesionales/nomenclator.do)
+
 ## Nacionales
 
 * [FELGTBI+](https://felgtbi.org/) (Federación Estatal de Lesbianas, Gais, Trans, Bisexuales, Intersexuales y más): organización que agrupa a una gran cantidad de otras entidades LGTBI+ a nivel nacional. Disponen de recursos para encontrar trabajo, asesoramiento, formación, entre otras cosas.
