@@ -15,4 +15,4 @@ Una vez conseguido lo anterior, el trámite tarda al rededor de 1 mes. Las entid
 Una vez hecho esto, se puede renovar el pasaporte y visado como cualquier otro trámite.
 
 ## Otros
-  * [.PDF Ruta de Cambio de Identidad de Género](https://cdn.discordapp.com/attachments/1487947973898928260/1487953346408218635/ruta_de_cambio_de_identidad_de_genero.pdf?ex=69cb040a&is=69c9b28a&hm=77bff731ca8e67c00c9e763b56d53594ea19a32e7ae3ddb015451a4fca024069&)
+  * [.PDF Ruta de Cambio de Identidad de Género](https://drive.google.com/file/d/1AiIm-wd0TzN8QGqjP6Dv6pToMHH9kPzE/view?usp=sharing)
