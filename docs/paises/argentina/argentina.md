@@ -89,7 +89,6 @@ Escribís la provincia en la que estás y te muestra todo tipo de recursos que p
 
 * [Varones Trans Santa Fe](https://www.instagram.com/varonestrans/): Grupo de Varones Trans y No Binaries de Santa Fe.
 
-
 ### Guías de Atención
 
 * [Recomendaciones para la Atención Integral de la Salud de Niñeces y Adolescencias Trans, Travestis y No Binaries (2021)](https://bancos.salud.gob.ar/recurso/recomendaciones-para-la-atencion-integral-de-la-salud-de-nineces-y-adolescencias-trans)
