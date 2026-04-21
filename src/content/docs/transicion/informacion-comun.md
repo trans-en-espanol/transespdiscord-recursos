@@ -1,5 +1,7 @@
 ---
 title: Información común
+sidebar:
+  order: 1
 ---
 
 ## Terapia de Reemplazo Hormonal (TRH)

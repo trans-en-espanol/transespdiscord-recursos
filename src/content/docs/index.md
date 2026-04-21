@@ -1,5 +1,7 @@
 ---
 title: Inicio
+sidebar:
+  order: 1
 ---
 
 **¡Bienvenide al repositorio de recursos de Trans en Español!** Aquí puedes encontrar información relativa a distintos procesos relacionados con la comunidad trans.

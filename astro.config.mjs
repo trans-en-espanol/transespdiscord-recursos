@@ -6,19 +6,47 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			title: 'Trans en Español',
+			logo:{
+				light: './src/assets/logo-horizontal-claro.svg',
+				dark: './src/assets/logo-horizontal-oscuro.svg',
+				alt: 'Logo de Trans en Español',
+				replacesTitle: true
+			},
+			favicon: 'favicon.svg',
+			social: [
+				{ icon: 'discord', label: 'Discord', href: 'https://servidor.transespdiscord.net' },
+				{ icon: 'github', label: 'GitHub', href: 'https://github.com/trans-en-espanol' }
+			],
+			locales: {
+				root: {
+					label: 'Español',
+					lang: 'es'
+				}
+			},
+			defaultLocale: 'es',
+			pagination: false,
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'General',
 					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
-					],
+						{slug: ''},
+						{slug: 'contribuir'},
+						{slug: 'glosario'}
+					]
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'Países',					
+					autogenerate: {
+						collapsed:true,
+						directory: '/paises'
+					}
+				},
+				{
+					label: 'Transición',
+					autogenerate: {
+						directory: '/transicion'
+					}
 				},
 			],
 		}),
