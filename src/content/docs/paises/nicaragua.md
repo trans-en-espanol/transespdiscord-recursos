@@ -4,7 +4,7 @@ title: Nicaragua
 
 ## Contactos
 
-Contactos de interés en Nicaragua, recuerda que puedes [contribuir](contribuir.md) a esta página si dispones de más información.
+Contactos de interés en Nicaragua, recuerda que puedes [contribuir](/contribuir/) a esta página si dispones de más información.
 
 ### Doctores
 #### Managua:
@@ -18,7 +18,7 @@ Contactos de interés en Nicaragua, recuerda que puedes [contribuir](contribuir.
 
 ## Procedimientos
 
-Procedimientos en Nicaragua, recuerda que puedes [contribuir](contribuir.md) a esta página si dispones de más información.
+Procedimientos en Nicaragua, recuerda que puedes [contribuir](/contribuir/) a esta página si dispones de más información.
 
 ### Información general
 

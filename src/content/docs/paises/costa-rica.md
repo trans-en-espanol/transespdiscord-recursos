@@ -4,7 +4,7 @@ title: Costa Rica
 
 ## Procedimientos
 
-Procedimientos en Costa Rica, recuerda que puedes [contribuir](contribuir.md) a esta página si dispones de más información.
+Procedimientos en Costa Rica, recuerda que puedes [contribuir](/contribuir/) a esta página si dispones de más información.
 
 ### Cambio de Marcadores de Género y Nombre Legal siendo Inmigrante
 Si el país natal **permite** el cambio de los marcadores de nombre y género legales en la documentación, lo más probable es que se tenga que tramitar en dicho país natal. Sin embargo, **si no es posible** por su legislatura, se puede acercar a un consul para que entregue una carta donde se exprese la imposibilidad de este trámite, y con esto se abre la posibilidad de cambiar lo deseado en el documento DIMEX (Documento de Identidad Migratorio para Extranjeros). Naturalmente este cambio es sólo válido dentro de Costa Rica, pero permite que se pueda usar para realizar la mayoría de trámites, como en bancos.

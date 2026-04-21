@@ -4,7 +4,7 @@ title: Paraguay
 
 ## Contactos
 
-Contactos de interés en Paraguay, recuerda que puedes [contribuir](contribuir.md) a esta página si dispones de más información.
+Contactos de interés en Paraguay, recuerda que puedes [contribuir](/contribuir/) a esta página si dispones de más información.
 
 ### Nacionales
 

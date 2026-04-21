@@ -4,7 +4,7 @@ title: Colombia
 
 ## Contactos
 
-Contactos de interés en Colombia, recuerda que puedes [contribuir](contribuir.md) a esta página si dispones de más información.
+Contactos de interés en Colombia, recuerda que puedes [contribuir](/contribuir/) a esta página si dispones de más información.
 
 ### Nacionales
 
@@ -30,7 +30,7 @@ Contactos de interés en Colombia, recuerda que puedes [contribuir](contribuir.m
 
 ## Procedimientos
 
-Procedimientos en Colombia, recuerda que puedes [contribuir](contribuir.md) a esta página si dispones de más información.
+Procedimientos en Colombia, recuerda que puedes [contribuir](/contribuir/) a esta página si dispones de más información.
 
 ### Información general
 
@@ -95,5 +95,5 @@ Estos son los que atienden lo más importante dentro del grupo de disforia.
 
 ### Documentos
 
-* [PDF: Cartilla de la Defensoría](https://recursos.transespdiscord.net/paises/colombia/adjuntos/Defensoria_del_Pueblo_-_Trans-formando_derechos_-_Derechos_de_las_personas_transgenero_en_Colombia.pdf). Explica los derechos específicos de las personas trans, procedimientos médicos y legales, etc. Está completo, con fallos de corte y marco legal. [(Clic aquí para versión resumida que sólo tiene el tema médico, legal y situación militar)](https://recursos.transespdiscord.net/paises/colombia/adjuntos/Defensoria_del_Pueblo_-_Trans-formando_derechos_-_Derechos_de_las_personas_transgenero_en_Colombia_(VERSION_RESUMIDA).pdf).
-* [PDF: Cartilla de la Universidad Javeriana con información sobre la Terapia Hormonal Feminizante](https://recursos.transespdiscord.net/paises/colombia/adjuntos/Cartilla_Informativa_para_Mujeres_Trans_-_Mitos_y_realidades_de_la_terapia_hormonal_feminizante_-_Colombia.pdf), mencionando algunos medicamentos disponibles en Colombia. Este documento describe el consenso médico que concierne a todo el tratamiento de afirmación de género en Colombia.
+* [PDF: Cartilla de la Defensoría](/adjuntos/paises/colombia/Defensoria_del_Pueblo_-_Trans-formando_derechos_-_Derechos_de_las_personas_transgenero_en_Colombia.pdf). Explica los derechos específicos de las personas trans, procedimientos médicos y legales, etc. Está completo, con fallos de corte y marco legal. [(Clic aquí para versión resumida que sólo tiene el tema médico, legal y situación militar)](/adjuntos/paises/colombia/Defensoria_del_Pueblo_-_Trans-formando_derechos_-_Derechos_de_las_personas_transgenero_en_Colombia_(VERSION_RESUMIDA).pdf).
+* [PDF: Cartilla de la Universidad Javeriana con información sobre la Terapia Hormonal Feminizante](/adjuntos/paises/colombia/Cartilla_Informativa_para_Mujeres_Trans_-_Mitos_y_realidades_de_la_terapia_hormonal_feminizante_-_Colombia.pdf), mencionando algunos medicamentos disponibles en Colombia. Este documento describe el consenso médico que concierne a todo el tratamiento de afirmación de género en Colombia.

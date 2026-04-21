@@ -4,7 +4,7 @@ title: República Dominicana
 
 ## Contactos
 
-Contactos de interés en República Dominicana, recuerda que puedes [contribuir](contribuir.md) a esta página si dispones de más información.
+Contactos de interés en República Dominicana, recuerda que puedes [contribuir](/contribuir/) a esta página si dispones de más información.
 
 ### Santo Domingo
 

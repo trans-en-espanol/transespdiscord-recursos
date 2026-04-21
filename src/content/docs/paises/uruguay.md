@@ -4,7 +4,7 @@ title: Uruguay
 
 ## Procedimientos
 
-Procedimientos en Uruguay, recuerda que puedes [contribuir](contribuir.md) a esta página si dispones de más información.
+Procedimientos en Uruguay, recuerda que puedes [contribuir](/contribuir/) a esta página si dispones de más información.
 
 ### Información general
 

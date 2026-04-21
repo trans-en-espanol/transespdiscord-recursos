@@ -8,31 +8,31 @@ sidebar:
 
 Si tienes alguna duda o deseas proponer recursos, puedes hacerlo [en el servidor de Discord](https://servidor.transespdiscord.net).
 
-Te recomendamos leer primero el [glosario de términos](glosario.md).
+Te recomendamos leer primero el [glosario de términos](/glosario/).
 
 ## Información sobre la transición
 
-* [Común a todas las transiciones](transicion/informacion-comun.md)
-* [Feminización](transicion/feminizacion/feminizacion.md)
-* [Masculinización](transicion/masculinizacion/masculinizacion.md)
-* [Androginización](transicion/androginizacion/androginizacion.md)
+* [Común a todas las transiciones](/transicion/informacion-comun/)
+* [Feminización](/transicion/feminizacion/)
+* [Masculinización](/transicion/masculinizacion/)
+* [Androginización](/transicion/androginizacion/)
 
 ## Información por países
 
 Disponemos de información de los siguientes países:
 
-* [Argentina](paises/argentina/argentina.md)
-* [Bolivia](paises/bolivia/bolivia.md)
-* [Chile](paises/chile/chile.md)
-* [Colombia](paises/colombia/colombia.md)
-* [Costa Rica](paises/costa-rica/costa-rica.md)
-* [Ecuador](paises/ecuador/ecuador.md)
-* [España](paises/espana/espana.md)
-* [Guatemala](paises/guatemala/guatemala.md)
-* [México](paises/mexico/mexico.md)
-* [Panamá](paises/panama/panama.md)
-* [Paraguay](paises/paraguay/paraguay.md)
-* [Perú](paises/peru/peru.md)
-* [República Dominicana](paises/republica-dominicana/republica-dominicana.md)
-* [Uruguay](paises/uruguay/uruguay.md)
-* [Venezuela](paises/venezuela/venezuela.md)
+* [Argentina](/paises/argentina/)
+* [Bolivia](/paises/bolivia/)
+* [Chile](/paises/chile/)
+* [Colombia](/paises/colombia/)
+* [Costa Rica](/paises/costa-rica/)
+* [Ecuador](/paises/ecuador/)
+* [España](/paises/espana/)
+* [Guatemala](/paises/guatemala/)
+* [México](/paises/mexico/)
+* [Panamá](/paises/panama/)
+* [Paraguay](/paises/paraguay/)
+* [Perú](/paises/peru/)
+* [República Dominicana](/paises/republica-dominicana/)
+* [Uruguay](/paises/uruguay/)
+* [Venezuela](/paises/venezuela/)

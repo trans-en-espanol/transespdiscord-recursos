@@ -4,7 +4,7 @@ title: España
 
 ## Contactos
 
-Contactos de interés en España, recuerda que puedes [contribuir](contribuir.md) a esta página si dispones de más información.
+Contactos de interés en España, recuerda que puedes [contribuir](/contribuir/) a esta página si dispones de más información.
 
 #### Sitios Útiles:
 [Buscador de Medicamentos con Precios del Ministerio de Sanidad](https://www.mscbs.gob.es/profesionales/nomenclator.do)
@@ -121,7 +121,7 @@ Contactos de interés en España, recuerda que puedes [contribuir](contribuir.md
 
 ## Procedimientos
 
-Procedimientos en España, recuerda que puedes [contribuir](contribuir.md) a esta página si dispones de más información.
+Procedimientos en España, recuerda que puedes [contribuir](/contribuir/) a esta página si dispones de más información.
 
 ### Información general
 

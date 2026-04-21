@@ -4,7 +4,7 @@ title: México
 
 ## Contactos
 
-Contactos de interés en México, recuerda que puedes [contribuir](contribuir.md) a esta página si dispones de más información.
+Contactos de interés en México, recuerda que puedes [contribuir](/contribuir/) a esta página si dispones de más información.
 
 ### Especialistas
 #### Endocrinología
@@ -52,7 +52,7 @@ Contactos de interés en México, recuerda que puedes [contribuir](contribuir.md
 
 ### Documentos
 
-* [PDF: Directorio de terapeutas en México.](https://recursos.transespdiscord.net/paises/mexico/adjuntos/Directorio_Terapeutas_Mexico.pdf)
+* [PDF: Directorio de terapeutas en México.](/adjuntos/paises/mexico/Directorio_Terapeutas_Mexico.pdf)
 
 ### Internet
 
@@ -61,7 +61,7 @@ Contactos de interés en México, recuerda que puedes [contribuir](contribuir.md
 
 ## Procedimientos
 
-Procedimientos en México, recuerda que puedes [contribuir](contribuir.md) a esta página si dispones de más información.
+Procedimientos en México, recuerda que puedes [contribuir](/contribuir/) a esta página si dispones de más información.
 
 ### Información general
 
@@ -76,7 +76,7 @@ El cambio de identidad legal se realiza directamente en el registro civil sin ne
 * Comprobante de domicilio.
 * Comparecer, manifestando la convicción por percibirse con determinado género.
 
-[Haz clic aquí para ver una imagen que describe el procedimiento.](https://recursos.transespdiscord.net/paises/mexico/adjuntos/Reconocimiento_de_la_Identidad_de_Género_en_CDMX.jpg)
+[Haz clic aquí para ver una imagen que describe el procedimiento.](/adjuntos/paises/mexico/Reconocimiento_de_la_Identidad_de_Género_en_CDMX.jpg)
 
 #### ¿Qué tengo que hacer para cambiarme el nombre?
 

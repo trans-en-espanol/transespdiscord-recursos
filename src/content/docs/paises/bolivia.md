@@ -4,7 +4,7 @@ title: Bolivia
 
 ## Procedimientos
 
-Procedimientos en Bolivia, recuerda que puedes [contribuir](contribuir.md) a esta página si dispones de más información.
+Procedimientos en Bolivia, recuerda que puedes [contribuir](/contribuir/) a esta página si dispones de más información.
 
 ### Tratamiento de Reemplazo Hormonal
 Por el momento, la única manera de acceder al tratamiento de reemplazo hormonal es por **salud privada**, el seguro no cubre los medicamentos relacionados al TRH, pero sí el 90% de exámenes o estudios que pida el endocrinóloge.

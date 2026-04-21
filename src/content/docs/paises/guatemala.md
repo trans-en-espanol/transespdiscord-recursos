@@ -4,7 +4,7 @@ title: Guatemala
 
 ## Contactos
 
-Contactos de interés en Guatemala, recuerda que puedes [contribuir](contribuir.md) a esta página si dispones de más información.
+Contactos de interés en Guatemala, recuerda que puedes [contribuir](/contribuir/) a esta página si dispones de más información.
 
 ### Nacionales
 

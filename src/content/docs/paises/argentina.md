@@ -2,7 +2,7 @@
 title: Argentina
 ---
 
-Recursos para Argentina, recuerda que puedes [contribuir](contribuir.md) a esta página si dispones de más información.
+Recursos para Argentina, recuerda que puedes [contribuir](/contribuir/) a esta página si dispones de más información.
 
 ## Recursero
 
