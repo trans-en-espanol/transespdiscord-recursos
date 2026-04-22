@@ -28,6 +28,7 @@ export default defineConfig({
 			},
 			defaultLocale: 'es',
 			pagination: false,
+			customCss: ['./src/styles/custom.css'],
 			sidebar: [
 				{
 					label: 'General',
