@@ -43,16 +43,16 @@ export default defineConfig({
           items: [{ slug: "" }, { slug: "contribuir" }, { slug: "glosario" }],
         },
         {
+          label: "Transición",
+          autogenerate: {
+            directory: "/transicion",
+          },
+        },
+        {
           label: "Países",
           autogenerate: {
             collapsed: true,
             directory: "/paises",
-          },
-        },
-        {
-          label: "Transición",
-          autogenerate: {
-            directory: "/transicion",
           },
         },
       ],
