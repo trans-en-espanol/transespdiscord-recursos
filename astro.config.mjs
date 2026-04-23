@@ -2,9 +2,14 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import starlightLinksValidatorPlugin from "starlight-links-validator";
+import { loadEnv } from "vite";
+
+// @ts-ignore
+const { SITE_URL } = loadEnv(process.env.NODE_ENV, process.cwd(), "");
 
 // https://astro.build/config
 export default defineConfig({
+  site: SITE_URL,
   integrations: [
     starlight({
       plugins: [starlightLinksValidatorPlugin()],
