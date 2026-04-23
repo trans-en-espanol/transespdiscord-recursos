@@ -7,6 +7,7 @@ title: Costa Rica
 Procedimientos en Costa Rica, recuerda que puedes [contribuir](/contribuir/) a esta página si dispones de más información.
 
 ### Cambio de Marcadores de Género y Nombre Legal siendo Inmigrante
+
 Si el país natal **permite** el cambio de los marcadores de nombre y género legales en la documentación, lo más probable es que se tenga que tramitar en dicho país natal. Sin embargo, **si no es posible** por su legislatura, se puede acercar a un consul para que entregue una carta donde se exprese la imposibilidad de este trámite, y con esto se abre la posibilidad de cambiar lo deseado en el documento DIMEX (Documento de Identidad Migratorio para Extranjeros). Naturalmente este cambio es sólo válido dentro de Costa Rica, pero permite que se pueda usar para realizar la mayoría de trámites, como en bancos.
 
 [Reglamento para el reconocimiento del derecho a la identidad sexual y de género para personas extranjeras en el DIMEX](https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=88066)
@@ -23,42 +24,42 @@ Primero se requiere sacar turno con un médico clínico/general para pedir la de
 
 Al día de la fecha (29/03/2024) estos son los precios que se pueden esperar, en USD (dólar estadounidense):
 
-* Por privado:
-    * La consulta con un endocrino sale aproximadamente 120$.
-    * Los análisis están como mínimo en 300$ por la primera vez, ya después desde 150$ para citas de control.
-    * Las hormonas y reductores pueden salir de 80$ para arriba.
+- Por privado:
+  - La consulta con un endocrino sale aproximadamente 120$.
+  - Los análisis están como mínimo en 300$ por la primera vez, ya después desde 150$ para citas de control.
+  - Las hormonas y reductores pueden salir de 80$ para arriba.
 
 Al largo plazo sale caro, pero no hay que esperar citas y todo se hace rápido. Lo difícil es encontrar un endocrino que sepa lo que hace.
 
-* La Caja Costarricense del Seguro Social ofrece tres opciones:
-    * El seguro voluntario, que es el económico, para personas sin trabajo fijo:
-        * La única manera de cancelarlo es hacer una mejora en el plan de seguro y luego salirse.
-        * El precio mensual se saca haciendo un estudio sobre los ingresos de la persona. El mínimo es de 27 mil colones (50-55$usd) mensuales.
-    * El seguro del trabajador independiente, para gente que trabaja estilo freelancer.
-        * Se calcula dependiendo del ingreso, y aproximadamente sale en 35+ mil al mes (65$usd+).
-    * El seguro del trabajador.
-        * Es obligatorio y se da con cada empleo básico.
-        * Cobran un 15% de tu salario.
+- La Caja Costarricense del Seguro Social ofrece tres opciones:
+  - El seguro voluntario, que es el económico, para personas sin trabajo fijo:
+    - La única manera de cancelarlo es hacer una mejora en el plan de seguro y luego salirse.
+    - El precio mensual se saca haciendo un estudio sobre los ingresos de la persona. El mínimo es de 27 mil colones (50-55$usd) mensuales.
+  - El seguro del trabajador independiente, para gente que trabaja estilo freelancer.
+    - Se calcula dependiendo del ingreso, y aproximadamente sale en 35+ mil al mes (65$usd+).
+  - El seguro del trabajador.
+    - Es obligatorio y se da con cada empleo básico.
+    - Cobran un 15% de tu salario.
 
 #### Otros datos
 
 Caja Costarricense del Seguro Social:
 
-* Toma al rededor de 9 meses para comenzar con el TRH.
-* Ofrecen dentro del GAM (Gran Área Metropolitana), pero no hay info acerca de si el tratamiento es posible fuera de esta área, en zonas como Guanacaste, Limón, Cartago, Grecia, etc. Ni info acerca de la situación en Heredia y Alajuela, si tienen hospitales de la CCSS o no.
-* Hay que investigar como opera el Ebais local en su zona:
-    * Algunas clínicas de Ebais funcionan diferente y más como clínicas privadas, y en ese caso empezar el tratamiento sería imposible dado el caso.
-    * Si la clínica opera normalmente como parte de la CCSS, hay que averiguar si hay un área de psicología. Como esto es parte obligatoria del proceso, no hay info de lo que sucede si dicha clínica no ofrece esto.
+- Toma al rededor de 9 meses para comenzar con el TRH.
+- Ofrecen dentro del GAM (Gran Área Metropolitana), pero no hay info acerca de si el tratamiento es posible fuera de esta área, en zonas como Guanacaste, Limón, Cartago, Grecia, etc. Ni info acerca de la situación en Heredia y Alajuela, si tienen hospitales de la CCSS o no.
+- Hay que investigar como opera el Ebais local en su zona:
+  - Algunas clínicas de Ebais funcionan diferente y más como clínicas privadas, y en ese caso empezar el tratamiento sería imposible dado el caso.
+  - Si la clínica opera normalmente como parte de la CCSS, hay que averiguar si hay un área de psicología. Como esto es parte obligatoria del proceso, no hay info de lo que sucede si dicha clínica no ofrece esto.
 
 ### Proceso del TRH vía CCSS
 
 El primer paso es descargar y tener acceso a la app de la CCSS que se llama EDUS (todo eso se hace al adquirir el seguro), en esta aplicación hay que sacar una cita para medicina general. Esta parte puede ya ser difícil, se recomienda:
 
-* Despertar antes de las 6 AM. A esta hora es cuando se actualizan las citas y se muestra la disponibilidad.
-* En lo posible tener abiertas la app y el sitio web.
-* Tener la página de citas abierta y lista.
-* Escoger a partir del cuarto día disponible, ya que los primeros tres están ocupados.
-* Tener una hora en mente para buscar un espacio disponible lo más rápido posible.
+- Despertar antes de las 6 AM. A esta hora es cuando se actualizan las citas y se muestra la disponibilidad.
+- En lo posible tener abiertas la app y el sitio web.
+- Tener la página de citas abierta y lista.
+- Escoger a partir del cuarto día disponible, ya que los primeros tres están ocupados.
+- Tener una hora en mente para buscar un espacio disponible lo más rápido posible.
 
 Van a estar compitiendo como mínimo 20-30 personas con la misma idea de sacar una cita a las 6 AM, así que hay que actuar rápido.
 
@@ -106,4 +107,4 @@ Pero ya de allí se acabó. Es una lucha larga, pero se puede ganar.
 
 ### Información general
 
-* [TikTok que suele dar información relativa a los procesos](https://www.tiktok.com/@la.silenita/video/6915495506785422597).
+- [TikTok que suele dar información relativa a los procesos](https://www.tiktok.com/@la.silenita/video/6915495506785422597).

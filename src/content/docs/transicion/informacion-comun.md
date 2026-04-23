@@ -11,6 +11,7 @@ sidebar:
 Esta terapia puede provocar infertilidad, pero no está garantizada, por tanto, si no quieres hijes deberás continuar utilizando los métodos anticonceptivos. Si deseas tener hijes es mejor que lo consultes con tu médico antes de empezar a hormonarte para que te pueda proponer soluciones como la congelación de espermatozoides o de óvulos.
 
 ## Cirugías de reasignación/afirmación
+
 ### ¿Seguiré siendo fértil?
 
 Estas cirugías conducen a la infertilidad. Si deseas tener hijes es mejor que lo consultes con tu médico antes de empezar a hormonarte para que te pueda proponer soluciones como la congelación de espermatozoides o de óvulos.
@@ -25,6 +26,6 @@ Los resultados de una faloplastia y una vaginoplastia son realmente extraordinar
 
 ## Enlaces de interés
 
-* [La Biblia de la Disforia de Género](https://genderdysphoria.fyi/es/) (contiene muchas definiciones de términos).
-* [Recursos útiles en general](https://www.pointofpride.org/for-professionals).
-* [Vídeo de la Universidad de Iowa que explica cómo inyectarse testosterona o estrógeno](https://youtu.be/e0wDPZ0D9Wk).
+- [La Biblia de la Disforia de Género](https://genderdysphoria.fyi/es/) (contiene muchas definiciones de términos).
+- [Recursos útiles en general](https://www.pointofpride.org/for-professionals).
+- [Vídeo de la Universidad de Iowa que explica cómo inyectarse testosterona o estrógeno](https://youtu.be/e0wDPZ0D9Wk).

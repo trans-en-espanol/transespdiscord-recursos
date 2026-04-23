@@ -7,117 +7,118 @@ title: España
 Contactos de interés en España, recuerda que puedes [contribuir](/contribuir/) a esta página si dispones de más información.
 
 #### Sitios Útiles:
+
 [Buscador de Medicamentos con Precios del Ministerio de Sanidad](https://www.mscbs.gob.es/profesionales/nomenclator.do)
 
 ### Nacionales
 
-* [FELGTBI+](https://felgtbi.org/) (Federación Estatal de Lesbianas, Gais, Trans, Bisexuales, Intersexuales y más): organización que agrupa a una gran cantidad de otras entidades LGTBI+ a nivel nacional. Disponen de recursos para encontrar trabajo, asesoramiento, formación, entre otras cosas.
-    * Disponen de un programa para la inserción sociolaboral llamado [Yes We Trans](https://felgtbi.org/yeswetrans/).
-* [Chrysallis](https://chrysallis.org/) (Asociación de familias de Infancia y Juventud Trans*): enfocada a menores y sus familias.
-* [Transexualia](http://transexualia.org/) (Asociación de Transexuales).
+- [FELGTBI+](https://felgtbi.org/) (Federación Estatal de Lesbianas, Gais, Trans, Bisexuales, Intersexuales y más): organización que agrupa a una gran cantidad de otras entidades LGTBI+ a nivel nacional. Disponen de recursos para encontrar trabajo, asesoramiento, formación, entre otras cosas.
+  - Disponen de un programa para la inserción sociolaboral llamado [Yes We Trans](https://felgtbi.org/yeswetrans/).
+- [Chrysallis](https://chrysallis.org/) (Asociación de familias de Infancia y Juventud Trans\*): enfocada a menores y sus familias.
+- [Transexualia](http://transexualia.org/) (Asociación de Transexuales).
 
 ### Andalucía
 
 #### Toda la comunidad
 
-* [ATA Sylvia Rivera](https://www.atandalucia.es/): asociación de carácter general con muchos recursos.
-* [ARCO IRIS](https://www.federacionarcoiris.com/).
+- [ATA Sylvia Rivera](https://www.atandalucia.es/): asociación de carácter general con muchos recursos.
+- [ARCO IRIS](https://www.federacionarcoiris.com/).
 
 #### Sevilla
 
-* [DeFrente](https://defrente.org/).
+- [DeFrente](https://defrente.org/).
 
 ### Aragón
 
-* [SOMOS](https://somoslgtb.com/).
+- [SOMOS](https://somoslgtb.com/).
 
 ### Asturias
 
-* [XEGA](https://www.xega.org/) (Xente LGTBI+ de Asturias).
-* [Disex](https://www.instagram.com/disexasturies/).
-* [Llar Trans](https://www.llartrans.org/): enfocada a familias.
+- [XEGA](https://www.xega.org/) (Xente LGTBI+ de Asturias).
+- [Disex](https://www.instagram.com/disexasturies/).
+- [Llar Trans](https://www.llartrans.org/): enfocada a familias.
 
 ### Cantabria
 
-* [Alega](http://alega.org/).
+- [Alega](http://alega.org/).
 
 ### Castilla-La Mancha
 
-* [Asociación PLuRaL LGTBI+ Mancha Centro](https://plurallgtbi.org/).
-* [Servicio de atención integral a personas LGTBI](https://lgtbi.castillalamancha.es/servicio-de-atencion-personas-lgtbi): Para llenar el formulario, bajar al fondo y hacer click en "Contacto". Apoyo psicológico, social, y jurídico.
+- [Asociación PLuRaL LGTBI+ Mancha Centro](https://plurallgtbi.org/).
+- [Servicio de atención integral a personas LGTBI](https://lgtbi.castillalamancha.es/servicio-de-atencion-personas-lgtbi): Para llenar el formulario, bajar al fondo y hacer click en "Contacto". Apoyo psicológico, social, y jurídico.
 
 ### Castilla y León
 
-* [Iguales USAL](https://igualeslgtbplus.com/).
+- [Iguales USAL](https://igualeslgtbplus.com/).
 
 ### Cataluña
 
-* [TRÀNSIT](https://www.facebook.com/serveiTransit/): servicio oficial de la Generalitat para el tratamiento de personas trans. Ir a más información sobre Trànsit en esta wiki.
-* [Jesús Carlos Saenz de Cabezón Chico](https://www.paginasamarillas.es/f/barcelona/jesus-carlos-saenz-de-cabezon-chico_008164162_000000001.html): médico privado que hace orquiectomías en Barcelona.
+- [TRÀNSIT](https://www.facebook.com/serveiTransit/): servicio oficial de la Generalitat para el tratamiento de personas trans. Ir a más información sobre Trànsit en esta wiki.
+- [Jesús Carlos Saenz de Cabezón Chico](https://www.paginasamarillas.es/f/barcelona/jesus-carlos-saenz-de-cabezon-chico_008164162_000000001.html): médico privado que hace orquiectomías en Barcelona.
 
 ### Extremadura
 
-* [Extremadura Entiende](http://www.extremaduraentiende.org/) (Asociación de Mujeres LTBI+).
+- [Extremadura Entiende](http://www.extremaduraentiende.org/) (Asociación de Mujeres LTBI+).
 
 ### Galicia
 
-* [ALAS A Coruña](https://alasacoruna.org/).
-* [Nós Mesmas](https://www.facebook.com/asociacionnosmesmas).
-* [ARELAS](https://asociacionarelas.org/): Asociación formada por familias de niñes y adolescentes trans.
-* [Ana B. Taboada](https://www.facebook.com/psicologianataboada/): Intervención Psicologica en el ámbito Infantojuvenil y Atención a la Diversidad. Si bien no se especializa en personas trans, es trans-friendly.
+- [ALAS A Coruña](https://alasacoruna.org/).
+- [Nós Mesmas](https://www.facebook.com/asociacionnosmesmas).
+- [ARELAS](https://asociacionarelas.org/): Asociación formada por familias de niñes y adolescentes trans.
+- [Ana B. Taboada](https://www.facebook.com/psicologianataboada/): Intervención Psicologica en el ámbito Infantojuvenil y Atención a la Diversidad. Si bien no se especializa en personas trans, es trans-friendly.
 
 ### Islas Baleares
 
-* [La Llave del Armario](http://lallavedelarmario.org/).
-* [Ben Amics](https://benamics.com/).
+- [La Llave del Armario](http://lallavedelarmario.org/).
+- [Ben Amics](https://benamics.com/).
 
 ### Islas Canarias
 
-* [Algarabía](https://es-es.facebook.com/algarabiatfe/).
-* [Lánzate](https://www.asociacionlanzate.org/).
-* [Colectivo GAMÁ](https://www.colectivogama.com/).
+- [Algarabía](https://es-es.facebook.com/algarabiatfe/).
+- [Lánzate](https://www.asociacionlanzate.org/).
+- [Colectivo GAMÁ](https://www.colectivogama.com/).
 
 ### Jaén
 
-* [Asociación LGTBIQA+ Somos de Colores](https://somosdecoloresradio.com/asociacion/): Asociación centrada en promover la inclusión y velar por la igualdad real y efectiva de los derechos de las personas LGTBIQA+.
+- [Asociación LGTBIQA+ Somos de Colores](https://somosdecoloresradio.com/asociacion/): Asociación centrada en promover la inclusión y velar por la igualdad real y efectiva de los derechos de las personas LGTBIQA+.
 
 ### La Rioja
 
-* [GYLDA](http://www.gylda.lgbt/).
+- [GYLDA](http://www.gylda.lgbt/).
 
 ### Madrid
 
-* [COGAM](https://cogam.es/) (Colectivo LGTB+ de Madrid).
-* [Fundación 26 de Diciembre](https://fundacion26d.org/).
-* Hospital Universitario Ramón y Cajal:
-    * [Endocrinología (para información y gestión de citas)](https://www.comunidad.madrid/hospital/ramonycajal/ciudadanos-oferta-asistencial/servicios-medicos/endocrinologia-nutricion#contact) (email: [endocrinologia.nutricion.hrc@salud.madrid.org](mailto:endocrinologia.nutricion.hrc@salud.madrid.org), para gestionar citas es importante indicar el número de la historia clínica).
-* [Fundación Eddy](https://fundacioneddy.org/): Hogar de acogida para jóvenes LGBTIQA+ de entre 18 y 30 años que han sido víctimas de violencia familiar, bullying o cualquier forma de LGBTIQfobia y están en riesgo de exclusión social.
+- [COGAM](https://cogam.es/) (Colectivo LGTB+ de Madrid).
+- [Fundación 26 de Diciembre](https://fundacion26d.org/).
+- Hospital Universitario Ramón y Cajal:
+  - [Endocrinología (para información y gestión de citas)](https://www.comunidad.madrid/hospital/ramonycajal/ciudadanos-oferta-asistencial/servicios-medicos/endocrinologia-nutricion#contact) (email: [endocrinologia.nutricion.hrc@salud.madrid.org](mailto:endocrinologia.nutricion.hrc@salud.madrid.org), para gestionar citas es importante indicar el número de la historia clínica).
+- [Fundación Eddy](https://fundacioneddy.org/): Hogar de acogida para jóvenes LGBTIQA+ de entre 18 y 30 años que han sido víctimas de violencia familiar, bullying o cualquier forma de LGBTIQfobia y están en riesgo de exclusión social.
 
 ### Murcia
 
-* [No Te Prives](http://www.noteprives.es/).
-* [Colectivo GALACTYCO](https://www.colectivogalactyco.org/).
+- [No Te Prives](http://www.noteprives.es/).
+- [Colectivo GALACTYCO](https://www.colectivogalactyco.org/).
 
 ### Navarra
 
-* [Naizen](https://naizen.eus/quienes-somos/la-asociacion/).
+- [Naizen](https://naizen.eus/quienes-somos/la-asociacion/).
 
 ### País Vasco
 
-* [ALDARTE](https://www.aldarte.org/es/).
-* [Gehitu](https://www.gehitu.org/).
-* [Naizen](https://naizen.eus/quienes-somos/la-asociacion/).
-* [Berdindu](https://www.euskadi.eus/gobierno-vasco/berdindu/): Servicio del Gobierno Vasco de información y atención a las personas del colectivo. Hay diferentes opciones de atención: presencial (en los centros que hay en Araba, Gipuzkoa y Bizkaia), telefónica, por correo electrónico o por videollamada.
-    * [Enlace alternativo](https://www.gehitu.org/berdindu-infasis-gehitu/).
+- [ALDARTE](https://www.aldarte.org/es/).
+- [Gehitu](https://www.gehitu.org/).
+- [Naizen](https://naizen.eus/quienes-somos/la-asociacion/).
+- [Berdindu](https://www.euskadi.eus/gobierno-vasco/berdindu/): Servicio del Gobierno Vasco de información y atención a las personas del colectivo. Hay diferentes opciones de atención: presencial (en los centros que hay en Araba, Gipuzkoa y Bizkaia), telefónica, por correo electrónico o por videollamada.
+  - [Enlace alternativo](https://www.gehitu.org/berdindu-infasis-gehitu/).
 
 ### Valencia
 
-* [Castelló LGTBI](https://castellolgtbi.es/).
-* [Diversitat](https://www.diversitat.es/).
-* [Lambda Valencia](https://lambdavalencia.org/).
-* Dr. Manuel Lapertosa Gorban: Endocrinólogo con formación para atender a personas trans.
-  * Atiende en la Clinica San Martín y por privado.
-  * Email de contacto: dr.manuel.lapertosa@gmail.com
+- [Castelló LGTBI](https://castellolgtbi.es/).
+- [Diversitat](https://www.diversitat.es/).
+- [Lambda Valencia](https://lambdavalencia.org/).
+- Dr. Manuel Lapertosa Gorban: Endocrinólogo con formación para atender a personas trans.
+  - Atiende en la Clinica San Martín y por privado.
+  - Email de contacto: dr.manuel.lapertosa@gmail.com
 
 ## Procedimientos
 
@@ -133,28 +134,28 @@ La asociación Chrysallis recopila la legislación vigente a nivel estatal y aut
 
 En España el procedimiento a seguir en cuestiones de transición depende del sitio y caso en concreto, pero habitualmente hay que seguir alguna de estas rutas (sistema público, dado que es la opción recomendada debido al coste del tratamiento):
 
-* Médico de cabecera → Unidad de Identidad de Género/Unidad de Atención a Personas Transexuales/Unidad de Género
-* Médico de cabecera → Endocrino (general) → Unidad de Identidad de Género/Unidad de Atención a Personas Transexuales/Unidad de Género
-* Médico de cabecera → Psiquiatra → Unidad de Identidad de Género/Unidad de Atención a Personas Transexuales/Unidad de Género → Endocrino
-* Psiquiatra → Unidad de Identidad de Género/Unidad de Atención a Personas Transexuales/Unidad de Género → Endocrino
-* En algunas provincias puedes contactar con la Unidad de Identidad de Género/Unidad de Atención a Personas Transexuales/Unidad de Género directamente sin pasar por tu médico de cabecera (por ejemplo: Barcelona, Valencia).
+- Médico de cabecera → Unidad de Identidad de Género/Unidad de Atención a Personas Transexuales/Unidad de Género
+- Médico de cabecera → Endocrino (general) → Unidad de Identidad de Género/Unidad de Atención a Personas Transexuales/Unidad de Género
+- Médico de cabecera → Psiquiatra → Unidad de Identidad de Género/Unidad de Atención a Personas Transexuales/Unidad de Género → Endocrino
+- Psiquiatra → Unidad de Identidad de Género/Unidad de Atención a Personas Transexuales/Unidad de Género → Endocrino
+- En algunas provincias puedes contactar con la Unidad de Identidad de Género/Unidad de Atención a Personas Transexuales/Unidad de Género directamente sin pasar por tu médico de cabecera (por ejemplo: Barcelona, Valencia).
 
 #### ¿Qué cubre el sistema sanitario público?
 
 Suelen cubrir como mínimo:
 
-* Hormonas.
-* Cirugía de reasignación/reafirmación (vaginoplastia y faloplastia, pero, existe la posibilidad que a pesar de estar cubiertas, no haya cirujanos disponibles).
-* Atención psicológica.
+- Hormonas.
+- Cirugía de reasignación/reafirmación (vaginoplastia y faloplastia, pero, existe la posibilidad que a pesar de estar cubiertas, no haya cirujanos disponibles).
+- Atención psicológica.
 
 Dependiendo de la comunidad pueden cubrir (importante preguntar para saber qué se cubre en la tuya):
 
-* Logopedia (terapia para feminizar la voz).
-* Cirugía de reducción de la "nuez".
-* Mamoplastia (aumento mamario).
-* Mastectomía (extirpación mamaria).
-* Orquiectomía (extirpación de los testículos).
-* Cirugía de feminización de la voz, aunque no se recomienda debido a los altos riesgos.
+- Logopedia (terapia para feminizar la voz).
+- Cirugía de reducción de la "nuez".
+- Mamoplastia (aumento mamario).
+- Mastectomía (extirpación mamaria).
+- Orquiectomía (extirpación de los testículos).
+- Cirugía de feminización de la voz, aunque no se recomienda debido a los altos riesgos.
 
 #### Cambio de la mención del sexo y nombre en el Registro Civil
 
@@ -164,9 +165,9 @@ De acuerdo con la [ley 4/2023, de 28 de febrero, para la igualdad real y efectiv
 
 Existen requisitos de edad para efectuar la solicitud:
 
-* Mayores de 16 años: pueden solicitar el cambio en el registro civil sin representación de nadie.
-* Menores de 16 años y mayores de 14: pueden solicitar el cambio por su cuenta, pero con la asistencia de sus representantes legales. Si tus representantes legales (habitualmente son tus padres) no estuviesen de acuerdo con el cambio, el artículo 43.2 de la ley dice que se nombrará a un defensor judicial (ver artículos 235 y 236 del Código Civil para más información).
-* Menores de 14 años y mayores de 12: el artículo 43.4 de la ley indica que en este caso es necesario solicitar autorización judicial.
+- Mayores de 16 años: pueden solicitar el cambio en el registro civil sin representación de nadie.
+- Menores de 16 años y mayores de 14: pueden solicitar el cambio por su cuenta, pero con la asistencia de sus representantes legales. Si tus representantes legales (habitualmente son tus padres) no estuviesen de acuerdo con el cambio, el artículo 43.2 de la ley dice que se nombrará a un defensor judicial (ver artículos 235 y 236 del Código Civil para más información).
+- Menores de 14 años y mayores de 12: el artículo 43.4 de la ley indica que en este caso es necesario solicitar autorización judicial.
 
 No todos los registros civiles requieren presentar la misma documentación para este trámite, pero por lo general piden que presentes tu DNI, certificado de nacimiento, y un certificado de empadronamiento con una antigüedad máxima de 3 meses. Recomendamos que contactes primero con el registro civil para averiguar lo que piden.
 
@@ -184,8 +185,8 @@ Además, el mismo artículo también indica que puedes solicitar el traslado tot
 
 Desgraciadamente, el procedimiento explicado en el apartado anterior es solo para personas de nacionalidad española, por tanto, si no tienes la nacionalidad, tienes dos opciones:
 
-* Hacer el cambio en tu país de origen, y luego actualizar la información en extranjería.
-* Conseguir la nacionalidad española.
+- Hacer el cambio en tu país de origen, y luego actualizar la información en extranjería.
+- Conseguir la nacionalidad española.
 
 Sin embargo, existe una excepción explicada en el artículo 50 de la ley (**atención: no conocemos ningún caso de alguien que haya conseguido hacer el cambio de esta manera, probablemente ni siquiera se esté aplicando aún este artículo**):
 
@@ -215,9 +216,9 @@ El formulario a utilizar para la variación de datos es el [TA. 1](https://www.s
 
 Existen varias maneras de hacerlo:
 
-* Presentando el [formulario online](https://portal.seg-social.gob.es/wps/portal/importass/importass/solicitudes/enviar).
-* Pide cita en la oficina que te corresponda ([Buscador de oficinas](https://www.seg-social.es/wps/portal/wss/internet/OficinaSeguridadSocial)), o también puedes hacerlo por correo electrónico (a la dirección de la oficina). 
-* Desde el portal [Import@ss](https://portal.seg-social.gob.es/wps/portal/importass/importass/inicio) es posible cambiar el nombre (pero no el sexo), con certificado digital o Cl@ve.
+- Presentando el [formulario online](https://portal.seg-social.gob.es/wps/portal/importass/importass/solicitudes/enviar).
+- Pide cita en la oficina que te corresponda ([Buscador de oficinas](https://www.seg-social.es/wps/portal/wss/internet/OficinaSeguridadSocial)), o también puedes hacerlo por correo electrónico (a la dirección de la oficina).
+- Desde el portal [Import@ss](https://portal.seg-social.gob.es/wps/portal/importass/importass/inicio) es posible cambiar el nombre (pero no el sexo), con certificado digital o Cl@ve.
 
 ##### AEAT (Agencia Tributaria)
 
@@ -241,7 +242,7 @@ Cada banco tiene un procedimiento diferente para actualizar los datos personales
 
 ### Andalucía
 
-* [Hoja de ruta para la transición en Andalucía](https://www.juntadeandalucia.es/export/drupaljda/salud_5af1956dc0019_hoja_ruta_trans_adultos.pdf).
+- [Hoja de ruta para la transición en Andalucía](https://www.juntadeandalucia.es/export/drupaljda/salud_5af1956dc0019_hoja_ruta_trans_adultos.pdf).
 
 #### Jaén
 
@@ -257,18 +258,18 @@ Estos documentos habrá que enviarlos por correo electrónico a la dirección de
 
 ### Cataluña
 
-* Trámites para hacer el cambio de nombre en la tarjeta sanitaria, abono de transporte, carnet de la biblioteca, universidad... sin necesidad de hacer cambios en el DNI, solo se necesita un simple certificado gratuito: https://web.gencat.cat/es/tramits/tramits-temes/Targeta_amb_nom_sentit
-* [Modelo de atención a personas trans en sanidad](https://scientiasalut.gencat.cat/bitstream/handle/11351/3275/catsalut_instruccio_14_2017.pdf).
+- Trámites para hacer el cambio de nombre en la tarjeta sanitaria, abono de transporte, carnet de la biblioteca, universidad... sin necesidad de hacer cambios en el DNI, solo se necesita un simple certificado gratuito: https://web.gencat.cat/es/tramits/tramits-temes/Targeta_amb_nom_sentit
+- [Modelo de atención a personas trans en sanidad](https://scientiasalut.gencat.cat/bitstream/handle/11351/3275/catsalut_instruccio_14_2017.pdf).
 
 ### Galicia
 
-* [Ley LGBTI](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-5488).
-* [Protocolo educativo de identidad de género](https://www.edu.xunta.gal/portal/es/node/18883).
+- [Ley LGBTI](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-5488).
+- [Protocolo educativo de identidad de género](https://www.edu.xunta.gal/portal/es/node/18883).
 
 ### Madrid
 
-* [Formulario para el cambio de nombre en la tarjeta sanitaria aunque no coincida con el Registro Civil](https://gestiona7.madrid.org/i012_impresos/run/j/VerImpreso.icm?CDIMPRESO=1449FA1).
-* [Endocrino privado especializado en personas trans](https://endocrinoypediatra.es/).
+- [Formulario para el cambio de nombre en la tarjeta sanitaria aunque no coincida con el Registro Civil](https://gestiona7.madrid.org/i012_impresos/run/j/VerImpreso.icm?CDIMPRESO=1449FA1).
+- [Endocrino privado especializado en personas trans](https://endocrinoypediatra.es/).
 
 ### Valencia
 

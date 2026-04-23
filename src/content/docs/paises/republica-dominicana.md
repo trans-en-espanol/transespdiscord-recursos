@@ -8,6 +8,6 @@ Contactos de interés en República Dominicana, recuerda que puedes [contribuir]
 
 ### Santo Domingo
 
-* [Centro de Orientación Integral](https://coin.org.do/). Preguntar por el Dr. Robert Paulino.
-* [TRANSSA](https://transsa.org/).
-* [COLESDOM](https://www.colesdomrd.com/).
+- [Centro de Orientación Integral](https://coin.org.do/). Preguntar por el Dr. Robert Paulino.
+- [TRANSSA](https://transsa.org/).
+- [COLESDOM](https://www.colesdomrd.com/).

@@ -8,7 +8,7 @@ Contactos de interés en Ecuador, recuerda que puedes [contribuir](/contribuir/)
 
 ### Guayaquil y Quito
 
-* [Asociación Silueta X LGBT+](https://siluetax.org/): Fundación transfeminista LGBT+ que lucha por la salud, educación, empleo, justicia, ciudadanía y democracia.
+- [Asociación Silueta X LGBT+](https://siluetax.org/): Fundación transfeminista LGBT+ que lucha por la salud, educación, empleo, justicia, ciudadanía y democracia.
 
 ## Procedimientos
 

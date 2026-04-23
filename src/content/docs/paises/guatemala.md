@@ -8,5 +8,5 @@ Contactos de interés en Guatemala, recuerda que puedes [contribuir](/contribuir
 
 ### Nacionales
 
-* [OTRANS](https://reinasdelanoche.org.gt/)
-* [REDMMUTRANS](https://www.redmmutransgt.org/) (Red Multicultural de Mujeres Trans de Guatemala)
+- [OTRANS](https://reinasdelanoche.org.gt/)
+- [REDMMUTRANS](https://www.redmmutransgt.org/) (Red Multicultural de Mujeres Trans de Guatemala)
