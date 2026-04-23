@@ -25,7 +25,7 @@ export default defineConfig({
         {
           icon: "discord",
           label: "Discord",
-          href: "https://servidor.transespdiscord.net",
+          href: "https://discord.gg/ktRkRKEAAD",
         },
         {
           icon: "github",
