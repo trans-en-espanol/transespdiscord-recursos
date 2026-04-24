@@ -14,6 +14,8 @@ export default defineConfig({
     starlight({
       plugins: [starlightLinksValidatorPlugin()],
       title: "Trans en Español",
+      description:
+        "Repositorio de recursos del servidor de Discord Trans en Español. Gran cantidad de recursos útiles para la comunidad trans.",
       logo: {
         light: "./src/assets/logo-horizontal-claro.svg",
         dark: "./src/assets/logo-horizontal-oscuro.svg",
@@ -42,6 +44,24 @@ export default defineConfig({
       defaultLocale: "es",
       pagination: false,
       customCss: ["./src/styles/custom.css"],
+      titleDelimiter: "-",
+      routeMiddleware: "./src/middleware/route-data.ts",
+      head: [
+        {
+          tag: "meta",
+          attrs: {
+            property: "og:image",
+            content: `${SITE_URL}/opengraph.png`,
+          },
+        },
+        {
+          tag: "meta",
+          attrs: {
+            property: "twitter:image",
+            content: `${SITE_URL}/opengraph.png`,
+          },
+        },
+      ],
       sidebar: [
         {
           label: "General",
