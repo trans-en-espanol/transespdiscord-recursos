@@ -49,23 +49,7 @@ export default defineConfig({
         "./src/styles/custom.css",
       ],
       titleDelimiter: "-",
-      routeMiddleware: "./src/middleware/route-data.ts",
-      head: [
-        {
-          tag: "meta",
-          attrs: {
-            property: "og:image",
-            content: `${SITE_URL}/opengraph.png`,
-          },
-        },
-        {
-          tag: "meta",
-          attrs: {
-            property: "twitter:image",
-            content: `${SITE_URL}/opengraph.png`,
-          },
-        },
-      ],
+      routeMiddleware: "./src/middleware/meta-tags.ts",
       sidebar: [
         {
           label: "General",
