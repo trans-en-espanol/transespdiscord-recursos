@@ -30,6 +30,8 @@
       background-color,
       color 100ms ease-in;
   }
+
+  --sl-font: "Noto Sans";
 }
 /* Light mode colors. */
 :root[data-theme="light"] {

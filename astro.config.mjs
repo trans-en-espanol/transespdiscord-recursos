@@ -43,7 +43,11 @@ export default defineConfig({
       },
       defaultLocale: "es",
       pagination: false,
-      customCss: ["./src/styles/custom.css"],
+      customCss: [
+        "@fontsource/noto-sans/latin.css",
+        "@fontsource/noto-sans/latin-italic.css",
+        "./src/styles/custom.css",
+      ],
       titleDelimiter: "-",
       routeMiddleware: "./src/middleware/route-data.ts",
       head: [
