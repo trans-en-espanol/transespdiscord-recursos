@@ -33,7 +33,7 @@ export const GET = (async ({ props: { title, description } }) => {
           }),
         ),
       )
-        .webp({ quality: 100 })
+        .png({ quality: 100 })
         .toBuffer(),
     ),
   );
@@ -44,7 +44,7 @@ export const getStaticPaths = (async () => {
     await getCollection("docs")
   ).map(
     ({ id, data: { title, description } }): GetStaticPathsItem => ({
-      params: { route: id },
+      params: { route: `${id}.png` },
       props: {
         title: title || config.title,
         description: (description || config.description)

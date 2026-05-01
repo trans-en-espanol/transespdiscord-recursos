@@ -15,7 +15,7 @@ export const onRequest = defineRouteMiddleware(async (context, next) => {
 
   const { SITE } = import.meta.env;
 
-  const image = `${SITE}/open-graph/${id || "index"}.webp`;
+  const image = `${SITE}/open-graph/${id || "index"}.png`;
 
   head.push(
     { tag: "meta", attrs: { property: "og:image", content: image } },
