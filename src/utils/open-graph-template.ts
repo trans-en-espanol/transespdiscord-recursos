@@ -9,8 +9,7 @@ export const template = (title: string, description: string) => ({
     style: {
       width: "100%",
       height: "100%",
-      background:
-        "radial-gradient(ellipse 100% 100% at 0% 100%, #242b34, #242b3400), radial-gradient(ellipse 100% 100% at 100% 0%, #31272c, #31272c00), #1F1F23",
+      backgroundColor: "#18181A",
       display: "flex",
       flexDirection: "column",
     },
@@ -42,7 +41,7 @@ export const template = (title: string, description: string) => ({
                       style: {
                         fontFamily: "Title",
                         fontSize: "56px",
-                        color: "white",
+                        color: "#F4F4F5",
                         lineHeight: 1.1,
                         textTransform: "uppercase",
                         textWrap: "balance",
@@ -56,7 +55,7 @@ export const template = (title: string, description: string) => ({
                       style: {
                         fontFamily: "Description",
                         fontSize: "48px",
-                        color: "#EAEAEC",
+                        color: "#F4F4F5BF",
                       },
                       children: description,
                     },
@@ -78,7 +77,7 @@ export const template = (title: string, description: string) => ({
         type: "div",
         props: {
           style: {
-            background: "linear-gradient(to right, #5BCEFA, #BBBED9, #F5A9B8)",
+            background: "linear-gradient(to right, #5BCEFA, #F5A9B8)",
             height: "24px",
           },
         },
