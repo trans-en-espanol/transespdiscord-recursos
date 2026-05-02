@@ -9,7 +9,7 @@ export const template = (title: string, description: string) => ({
     style: {
       width: "100%",
       height: "100%",
-      backgroundColor: "#18181A",
+      backgroundColor: "#1F1F23",
       display: "flex",
       flexDirection: "column",
     },
@@ -41,7 +41,7 @@ export const template = (title: string, description: string) => ({
                       style: {
                         fontFamily: "Title",
                         fontSize: "56px",
-                        color: "#F4F4F5",
+                        color: "#E9E9EC",
                         lineHeight: 1.1,
                         textTransform: "uppercase",
                         textWrap: "balance",
@@ -55,7 +55,7 @@ export const template = (title: string, description: string) => ({
                       style: {
                         fontFamily: "Description",
                         fontSize: "48px",
-                        color: "#F4F4F5BF",
+                        color: "#E9E9ECBF",
                       },
                       children: description,
                     },
