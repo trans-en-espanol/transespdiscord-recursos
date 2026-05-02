@@ -1,7 +1,7 @@
 /* Dark mode colors. */
 :root {
   --tee-flag-pink: #f5a9b8;
-  --tee-flag-pink-dark: #ee6882;
+  --tee-flag-pink-dark: #f288a0;
 
   --sl-color-accent-low: #03273a;
   --sl-color-accent: #5bcefa;
@@ -15,6 +15,8 @@
   --sl-color-gray-6: #26262a;
   --sl-color-black: #18181a;
 
+  --sl-color-bg-sidebar: rgb(from var(--sl-color-gray-6) r g b / 0.5);
+
   .sidebar-content {
     --sl-color-text-accent: var(--tee-flag-pink);
     --sl-color-text-invert: var(--sl-color-black);
@@ -22,7 +24,7 @@
 
   .social-icons {
     --sl-color-text-accent: var(--tee-flag-pink);
-    --sl-color-text-invert: var(--sl-color-black);
+    --sl-color-white: var(--sl-color-accent-high);
   }
 
   * {
@@ -48,6 +50,8 @@
   --sl-color-gray-7: #f6f6f7;
   --sl-color-black: #ffffff;
 
+  --sl-color-bg-sidebar: rgb(from var(--sl-color-gray-7) r g b / 0.25);
+
   .sidebar-content {
     --sl-color-text-accent: var(--tee-flag-pink);
     --sl-color-text-invert: var(--sl-color-white);
@@ -55,6 +59,6 @@
 
   .social-icons {
     --sl-color-text-accent: var(--tee-flag-pink-dark);
-    --sl-color-text-invert: var(--sl-color-black);
+    --sl-color-white: var(--sl-color-accent);
   }
 }
