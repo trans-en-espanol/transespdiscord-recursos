@@ -6,6 +6,7 @@ import satori from "satori";
 import sharp from "sharp";
 import config from "virtual:starlight/user-config";
 import { template } from "../../utils/open-graph-template";
+import { emoji } from "../../utils/satori-emoji";
 
 const titleFont = fs.readFileSync(
   path.resolve(
@@ -30,6 +31,10 @@ export const GET = (async ({ props: { title, description } }) => {
               { name: "Title", data: titleFont },
               { name: "Description", data: descriptionFont },
             ],
+            loadAdditionalAsset: async (languageCode, segment) => {
+              if (languageCode === "emoji") return await emoji(segment);
+              return segment;
+            },
           }),
         ),
       )
