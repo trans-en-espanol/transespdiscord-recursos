@@ -23,4 +23,4 @@ Una vez hecho esto, se puede renovar el pasaporte y visado como cualquier otro t
 
 ### Otros
 
-- [.PDF Ruta de Cambio de Identidad de Género](https://drive.google.com/file/d/1AiIm-wd0TzN8QGqjP6Dv6pToMHH9kPzE/view?usp=sharing)
+- [.PDF Ruta de Cambio de Identidad de Género](/adjuntos/paises/bolivia/Ruta_de_cambio_de_identidad_de_genero.pdf)
