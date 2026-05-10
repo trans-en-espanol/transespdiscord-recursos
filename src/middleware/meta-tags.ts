@@ -5,9 +5,9 @@ export const onRequest = defineRouteMiddleware(async (context, next) => {
 
   // Agregar nombre del sitio al final del título.
 
-  const title = head.find(({ tag }) => tag == "title")?.content;
+  const title = head.find(({ tag }) => tag === "title")?.content;
   const ogTitle = head.find(
-    ({ tag, attrs }) => tag == "meta" && attrs?.property == "og:title",
+    ({ tag, attrs }) => tag === "meta" && attrs?.property === "og:title",
   );
   if (title && ogTitle?.attrs) ogTitle.attrs.content = title;
 

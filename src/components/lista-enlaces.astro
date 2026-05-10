@@ -3,8 +3,8 @@ const { categoria } = Astro.props;
 const { sidebar } = Astro.locals.starlightRoute;
 
 const entries = (
-  sidebar.find(({ label }) => label == categoria) as any
-)?.entries.filter(({ type }: any) => type == "link");
+  sidebar.find(({ label }) => label === categoria) as any
+)?.entries.filter(({ type }: any) => type === "link");
 ---
 
 {
