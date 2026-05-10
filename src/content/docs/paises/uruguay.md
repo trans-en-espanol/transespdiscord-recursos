@@ -1,5 +1,5 @@
 ---
-title: Uruguay
+title: 🇺🇾 Uruguay
 ---
 
 ## Procedimientos

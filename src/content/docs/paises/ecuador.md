@@ -1,5 +1,5 @@
 ---
-title: Ecuador
+title: 🇪🇨 Ecuador
 ---
 
 ## Contactos

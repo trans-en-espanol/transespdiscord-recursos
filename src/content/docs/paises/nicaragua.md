@@ -1,5 +1,5 @@
 ---
-title: Nicaragua
+title: 🇳🇮 Nicaragua
 ---
 
 ## Contactos

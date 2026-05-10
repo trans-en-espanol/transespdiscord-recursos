@@ -1,5 +1,5 @@
 ---
-title: Bolivia
+title: 🇧🇴 Bolivia
 ---
 
 ## Procedimientos

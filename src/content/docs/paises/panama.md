@@ -1,5 +1,5 @@
 ---
-title: Panamá
+title: 🇵🇦 Panamá
 ---
 
 ## Contactos

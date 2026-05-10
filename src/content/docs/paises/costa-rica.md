@@ -1,5 +1,5 @@
 ---
-title: Costa Rica
+title: 🇨🇷 Costa Rica
 ---
 
 ## Procedimientos

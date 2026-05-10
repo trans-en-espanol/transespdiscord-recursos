@@ -1,5 +1,5 @@
 ---
-title: Paraguay
+title: 🇵🇾 Paraguay
 ---
 
 ## Contactos
