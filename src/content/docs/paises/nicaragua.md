@@ -24,4 +24,4 @@ Procedimientos en Nicaragua, recuerda que puedes [contribuir](/contribuir/) a es
 
 ### Información general
 
-[Documento Informativo Sobre la Transición Médica en Nicaragua para Hombres Trans](/adjuntos/paises/nicaragua/Documento_Informativo_Sobre_la_Transición_Médica_en_Nicaragua.pdf)
+[Documento Informativo Sobre la Transición Médica en Nicaragua para Hombres Trans](https://drive.google.com/file/d/1ewRdn39tPYYQzg8FQ8S3aUV9KkZW5EPq/view)

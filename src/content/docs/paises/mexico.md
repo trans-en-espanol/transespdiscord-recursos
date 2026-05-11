@@ -59,7 +59,7 @@ Contactos de interés en México, recuerda que puedes [contribuir](/contribuir/)
 
 ### Documentos
 
-- [PDF: Directorio de terapeutas en México.](/adjuntos/paises/mexico/Directorio_Terapeutas_Mexico.pdf)
+- [PDF: Directorio de terapeutas en México.](https://drive.google.com/file/d/1nZ2aWUWhBakNWYdLFodxFXWKXxIclCjw/view)
 
 ### Internet
 
@@ -83,7 +83,7 @@ El cambio de identidad legal se realiza directamente en el registro civil sin ne
 - Comprobante de domicilio.
 - Comparecer, manifestando la convicción por percibirse con determinado género.
 
-[Haz clic aquí para ver una imagen que describe el procedimiento.](/adjuntos/paises/mexico/Reconocimiento_de_la_Identidad_de_Género_en_CDMX.jpg)
+[Haz clic aquí para ver una imagen que describe el procedimiento.](https://drive.google.com/file/d/1nzdXv8kfsUIVPXkQ_JAfqO1WfLpZfj15/view)
 
 #### ¿Qué tengo que hacer para cambiarme el nombre?
 
