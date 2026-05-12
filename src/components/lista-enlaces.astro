@@ -1,0 +1,20 @@
+---
+const { categoria } = Astro.props;
+const { sidebar } = Astro.locals.starlightRoute;
+
+const entries = (
+  sidebar.find(({ label }) => label === categoria) as any
+)?.entries.filter(({ type }: any) => type === "link");
+---
+
+{
+  entries && (
+    <ul>
+      {entries.map(({ label, href }: any) => (
+        <li>
+          <a href={href}>{label}</a>
+        </li>
+      ))}
+    </ul>
+  )
+}

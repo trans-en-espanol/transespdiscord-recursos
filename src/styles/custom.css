@@ -1,0 +1,64 @@
+/* Dark mode colors. */
+:root {
+  --tee-flag-pink: #f5a9b8;
+  --tee-flag-pink-dark: #f288a0;
+
+  --sl-color-accent-low: #03273a;
+  --sl-color-accent: #5bcefa;
+  --sl-color-accent-high: #88dbfb;
+  --sl-color-white: #ffffff;
+  --sl-color-gray-1: #ededf0;
+  --sl-color-gray-2: #c8c8cb;
+  --sl-color-gray-3: #a3a3a9;
+  --sl-color-gray-4: #57575c;
+  --sl-color-gray-5: #38383c;
+  --sl-color-gray-6: #26262a;
+  --sl-color-black: #18181a;
+
+  --sl-color-bg-sidebar: rgb(from var(--sl-color-gray-6) r g b / 0.5);
+
+  .sidebar-content {
+    --sl-color-text-accent: var(--tee-flag-pink);
+    --sl-color-text-invert: var(--sl-color-black);
+  }
+
+  .social-icons {
+    --sl-color-text-accent: var(--tee-flag-pink);
+    --sl-color-white: var(--sl-color-accent-high);
+  }
+
+  * {
+    transition:
+      background-color,
+      color 100ms ease-in;
+  }
+
+  --sl-font: "Noto Sans";
+}
+/* Light mode colors. */
+:root[data-theme="light"] {
+  --sl-color-accent-low: #88dbfb;
+  --sl-color-accent: #0075a3;
+  --sl-color-accent-high: #003750;
+  --sl-color-white: #18181a;
+  --sl-color-gray-1: #26262a;
+  --sl-color-gray-2: #38383c;
+  --sl-color-gray-3: #57575c;
+  --sl-color-gray-4: #8b8b90;
+  --sl-color-gray-5: #c2c2c4;
+  --sl-color-gray-6: #ededf0;
+  --sl-color-gray-7: #f6f6f7;
+  --sl-color-black: #ffffff;
+
+  --sl-color-bg-sidebar: rgb(from var(--sl-color-gray-7) r g b / 0.25);
+
+  .sidebar-content {
+    --sl-color-text-accent: var(--tee-flag-pink);
+    --sl-color-text-invert: var(--sl-color-white);
+  }
+
+  .social-icons {
+    --sl-color-text-accent: var(--tee-flag-pink-dark);
+    --sl-color-white: var(--sl-color-accent);
+  }
+}
