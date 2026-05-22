@@ -57,16 +57,11 @@ export default defineConfig({
         },
         {
           label: "Transición",
-          autogenerate: {
-            directory: "/transicion",
-          },
+          items: [{ autogenerate: { directory: "/transicion" } }],
         },
         {
           label: "Países",
-          autogenerate: {
-            collapsed: true,
-            directory: "/paises",
-          },
+          items: [{ autogenerate: { collapsed: true, directory: "/paises" } }],
         },
       ],
     }),
