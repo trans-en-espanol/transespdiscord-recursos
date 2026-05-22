@@ -10,11 +10,11 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.38.3",
+    "@astrojs/starlight": "^0.39.2",
     "@fontsource/noto-sans": "^5.2.10",
-    "astro": "^6.0.1",
+    "astro": "^6.3.7",
     "satori": "^0.26.0",
-    "sharp": "^0.34.2",
-    "starlight-links-validator": "^0.23.0"
+    "sharp": "^0.34.5",
+    "starlight-links-validator": "^0.24.0"
   }
 }
