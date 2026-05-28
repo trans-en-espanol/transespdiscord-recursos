@@ -31,7 +31,7 @@ El psicólogo debe derivarte con un informe a algún sector médico; la cantidad
 
 Si tienes seguro de salud Fonasa, parte de la terapia hormonal es gratis (aún no hay códigos para todas las etapas).
 
-- [Documento del Ministerio de Salud que describe la "vía clínica para la adecuación corporal en personas con incongruencia entre sexo físico e identidad de género"](https://www.minsal.cl/portal/url/item/d126e58ba4cb53f5e040010165017912.pdf) (este documento está un poco desactualizado y ya no es necesario pasar por psiquiatría).
+- [Documento del Ministerio de Salud que describe la "vía clínica para la adecuación corporal en personas con incongruencia entre sexo físico e identidad de género"](https://drive.google.com/file/d/1H6NG3Pp-TqW6omuma-bU-JxAw6cqZjlf/) (este documento está un poco desactualizado y ya no es necesario pasar por psiquiatría).
 - [Comentario en Reddit con instrucciones para acceder al tratamiento por el sistema público](https://www.reddit.com/r/chile/comments/qscahn/recursosconsejos_para_una_chica_trans_en_chile/hkeytas).
 
 #### Cambio de la mención del sexo
