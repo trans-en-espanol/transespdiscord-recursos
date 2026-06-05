@@ -13,8 +13,9 @@ Escribís la provincia en la que estás y te muestra todo tipo de recursos que p
 ## Hormonización
 
 - [¿Qué se necesita para acceder a las terapias hormonales y/o cirugías?](https://buenosaires.gob.ar/salud/coordinacion-salud-sexual-sida-e-infecciones-de-transmision-sexual-its/salud-integral-de-2)
-- [Instituciones que ofrecen hormonización, cirugías y seguimiento de niñeces y adolescencias](https://buenosaires.gob.ar/salud-integral-de-personas-trans/equipos-de-atencion-de-personas-trans-travestis-y-no-binarias) dentro de Capital Federal.
-- [Centros de Salud de las personas LGBTINB+](https://www.ms.gba.gov.ar/sitios/generoydiversidad/centros-de-salud/): Red de Establecimientos de salud con equipos de atención de salud integral para la comunidad LGBT+. Para Buenos Aires (excluyendo Capital Federal)
+**Capital Federal**: [Servicios para la Atención Integral de la Salud
+de las Personas de la Diversidad Sexual](https://brandon.org.ar/wp-content/uploads/2021/06/Recursero_Salud_Trans_2021-1.pdf). Recurso recolectado por **Casa Brandon**, el enlace original fue removido por el gobierno por lo que la información puede estar desactualizada (Junio 2021)
+**Provincia de Buenos Aires**- [Centros de Salud de las personas LGBTINB+](https://www.ms.gba.gov.ar/sitios/generoydiversidad/centros-de-salud/): Red de Establecimientos de salud con equipos de atención de salud integral para la comunidad LGBT+.
 
 ## Cambio legal de nombre y género
 
