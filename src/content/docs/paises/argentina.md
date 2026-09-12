@@ -17,7 +17,7 @@ Escribís la provincia en la que estás y te muestra todo tipo de recursos que p
 de las Personas de la Diversidad Sexual](https://brandon.org.ar/wp-content/uploads/2021/06/Recursero_Salud_Trans_2021-1.pdf). Recurso recolectado por **Casa Brandon**, el enlace original fue removido por el gobierno por lo que la información puede estar desactualizada (Junio 2021)
 - **Provincia de Buenos Aires**: [Centros de Salud de las personas LGBTINB+](https://www.ms.gba.gov.ar/sitios/generoydiversidad/centros-de-salud/): Red de Establecimientos de salud con equipos de atención de salud integral para la comunidad LGBT+.
 
-  <iframe src="https://transistemas.org/hormonizacion/embed" title="Mapa de hormonización de Argentina" width="100%" height="600" loading="lazy" style="border:0;border-radius:12px"></iframe>
+  <iframe src="https://transistemas.org/hormonizacion/embed" title="Mapa de hormonización de Argentina" width="100%" height="900" loading="lazy" style="border:0;border-radius:12px"></iframe>
   Mapa desarrollado, mantenido y compartido por [Transistemas](https://transistemas.org/) ♥
 
 ## Cambio legal de nombre y género
