@@ -53,6 +53,7 @@ Contactos de interés en España, recuerda que puedes [contribuir](/contribuir/)
 
 ### Cataluña
 
+- [Transitem.cat](https://transitem.cat/): Directorio de administración, asociaciones, grupos y grupos de apoyo para personas trans y no binarias en Cataluña.
 - [TRÀNSIT](https://www.facebook.com/serveiTransit/): servicio oficial de la Generalitat para el tratamiento de personas trans. Ir a más información sobre Trànsit en esta wiki.
 - [Jesús Carlos Saenz de Cabezón Chico](https://www.paginasamarillas.es/f/barcelona/jesus-carlos-saenz-de-cabezon-chico_008164162_000000001.html): médico privado que hace orquiectomías en Barcelona.
 
