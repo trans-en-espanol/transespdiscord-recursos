@@ -67,6 +67,7 @@ Desarrollado, mantenido y compartido por [Transistemas](https://transistemas.org
 - [Archetype](https://www.archetype.com.ar/): Tienda de lencería para toda clase de cuerpos, con un énfasis para personas trans.
 - [Movimiento Trans Argentina](https://www.facebook.com/MUJERESTRANSARGENTINA1/)
 - [Paternidades Trans Argentina](https://www.facebook.com/paternidadestrans)
+- [Akãhatã](https://akahataorg.org/): Organización feminista que trabaja en temas relacionados con géneros, sexualidades y derechos relacionados. Contribuyen con el desarrollo de capacidades y el fortalecimiento de sus organizaciones, grupos y activistas. Fomentan el diálogo, el intercambio de experiencias y la construcción de estrategias para facilitar y generar espacios de formación, debate y entrenamiento en incidencia política y fortalecimiento de los activismos.
 
 ### Capital Federal
 
