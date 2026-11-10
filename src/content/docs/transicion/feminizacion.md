@@ -81,6 +81,11 @@ El tucking consiste en ocultar los genitales para que no se note la protuberanci
 
 ### Aplicaciones y Páginas Web Útiles
 
+#### Lilthop
+
+- Aplicación de escritorio gratuita para practicar tu voz por tu cuenta. Español e inglés.
+  - Web: https://github.com/WitchyNibbles/lilthop
+
 #### Voice Resource Project
 
 - Recolección de recursos para ayudar a entrenar la voz. En inglés.
